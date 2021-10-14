@@ -1,1 +1,11 @@
+.bg-img {
+    background-size: cover !important;
+    background-position: center center !important;
+}
+
+.testimonial-image{
+    max-width: 400px;
+    height: auto;
+    display: inline-block;
+}
 

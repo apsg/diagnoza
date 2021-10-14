@@ -1,3 +1,17 @@
+<!-- Subsribe Section Start -->
+<section class="section-parallax" data-src="images/bg/mountains.webp" data-stellar-background-ratio="0.5">
+    <span class="overlay-section-bg black-section-bg"></span>
+    <div class="container section-typo-white">
+        <div class="row">
+            <div class="col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1 text-center">
+                <div class="subscribe-form">
+                    <h3>Przebieg badania</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Subsribe Section End -->
 <!-- Timeline Section Start -->
 <section class="padding-bottom-50" id="proces">
     <div class="container">

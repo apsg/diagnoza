@@ -22,8 +22,8 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav pull-right">
                 <li class="active"><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#service">Services</a></li>
+                <li><a href="#about">O Badaniu</a></li>
+                <li><a href="#service">Zespół</a></li>
                 <li><a href="#cennik">Cennik</a></li>
                 <li><a href="#proces">Proces</a></li>
                 <li><a href="#kontakt">Kontakt</a></li>

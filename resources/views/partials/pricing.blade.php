@@ -24,13 +24,10 @@
                             <h2>Konsultacja psychologiczna</h2>
                         </div>
                         <div class="price-content">
-                            <p><strong>1</strong> Domain</p>
-                            <p><strong>100GB</strong> Disk Space</p>
-                            <p><strong>Unlimited</strong> Bandwidth</p>
-                            <p>SSL Certificate</p>
-                            <p><strong>10</strong> Email</p>
-                            <p><strong>24/7</strong> Support</p>
-                            <p class="text-center"><a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
+                            <p>Forma wsparcia krótkoterminowego mająca na celu doraźną pomoc.</p>
+                            <p><strong>1</strong> godzina spotkania</p>
+                            <p class="text-center">
+                                <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>
@@ -67,13 +64,9 @@
                             <h2>konsultacja programu terapeutycznego</h2>
                         </div>
                         <div class="price-content">
-                            <p><strong>1</strong> Domain</p>
-                            <p><strong>100GB</strong> Disk Space</p>
-                            <p><strong>Unlimited</strong> Bandwidth</p>
-                            <p>SSL Certificate</p>
-                            <p><strong>10</strong> Email</p>
-                            <p><strong>24/7</strong> Support</p>
-                            <p class="text-center"><a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
+                            <p>Wsparcie w zakresie opracowywania programów terapeutycznych realizowanych przez placówki oświatowe.</p>
+                            <p class="text-center">
+                                <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>

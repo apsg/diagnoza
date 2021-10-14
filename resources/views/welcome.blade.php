@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-    <!-- TITLE-->
-    <title>Stark</title>
     <!-- FAV ICON -->
     <link rel="shortcut icon" href="images/favicon.ico" type="text/css"/>
     <meta charset="UTF-8">
@@ -37,6 +35,9 @@
     <link rel="stylesheet" id="custom-color-panel" href="colors/dark-green.css" type="text/css">
 
     <link rel="stylesheet" href="{{ asset('/css/app.css') }}" type="text/css">
+
+    @meta_tags
+
 </head>
 <body data-spy="scroll" data-offset="62">
 
@@ -49,7 +50,7 @@
 @include('partials.navbar')
 
 <!-- Theme Header Start -->
-    <header id="home" class="full-height bg-img" data-src="images/bg/bg-6.png">
+    <header id="home" class="full-height bg-img" data-src="images/bg/trees.webp">
         <div class="container-fluid">
             <div class="row">
                 <div class="owl-carousel animated-owl-carousel header-slider" data-items="1" data-autoplay="false"
@@ -64,7 +65,7 @@
                                     <h1 class="section-title-divider stark-animated animated"
                                         data-animation="lightSpeedIn"
                                         data-animation-duration="2.5s">Diagnoza <span
-                                            class="primary-color">Autyzmu</span></h1>
+                                            class="primary-color">ADOS-2</span></h1>
                                     <p class="stark-animated animated" data-animation="bounceInDown"
                                        data-animation-duration="2s">Start Bootstrap can help you build better websites
                                         using
@@ -74,8 +75,9 @@
                                 </div>
                                 <a class="btn btn-default btn-xl stark-animated animated" href="#about"
                                    data-animation="bounceInDown" data-animation-duration="1.5s"
-                                   data-animation-delay="1000">Find
-                                    Out More</a> <!-- THEME DEFAULT BUTTON -->
+                                   data-animation-delay="1000">
+                                    Dowiedz się więcej
+                                </a> <!-- THEME DEFAULT BUTTON -->
                             </div>
                         </div><!-- .header-content -->
                     </div><!-- .item -->
@@ -85,14 +87,14 @@
                                 <div class="section-title">
                                     <h1 class="section-title-divider stark-animated animated"
                                         data-animation="lightSpeedIn"
-                                        data-animation-duration="2.5s">Your <span class="primary-color">Favorite</span>
-                                        Design</h1>
+                                        data-animation-duration="2.5s">Badanie <span
+                                            class="primary-color">dorosłych</span>
+                                        w kierunku autyzmu</h1>
                                     <p class="stark-animated animated" data-animation="bounceInDown"
-                                       data-animation-duration="2s">Start Bootstrap can help you build better websites
-                                        using
-                                        the Bootstrap CSS framework! Just download your template and start going, no
-                                        strings
-                                        attached!</p>
+                                       data-animation-duration="2s">
+                                        Jako jedna z nielicznych placówek w Polsce oferujemy również badanie osób
+                                        dorosłych.
+                                    </p>
                                 </div>
                                 <a class="btn btn-default btn-xl stark-animated animated" href="#about"
                                    data-animation="bounceInDown" data-animation-duration="1.5s"
@@ -102,7 +104,6 @@
                         </div><!-- .header-content -->
                     </div><!-- .item -->
                 </div><!-- .owl-carousel -->
-
             </div>
         </div>
     </header>
@@ -115,15 +116,14 @@
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1 text-center">
                     <div class="section-title">
-                        <h2 class="section-title-divider">Diagnoza autyzmu dzieci i młodzieży w Krakowie</h2>
+                        <h2 class="section-title-divider">Diagnoza ADOS-2 w Krakowie</h2>
                         <!-- SECTION TITLE -->
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut aliquip ex ea commodo consequat.
+                            Diagnoza autyzmu
                         </p>
                     </div>
-                    <a class="btn btn-default btn-xl btn-bg-white" href="#">Get Started!</a>
+                    <a class="btn btn-default btn-xl btn-bg-white" href="#proces">Zobacz jak przebiega proces
+                        badania</a>
                     <!-- THEME DEFAULT BUTTON WITH WHITE BACKGROUND -->
                 </div>
             </div>
@@ -169,7 +169,7 @@
     </section>
     <!-- About Section End-->
     <!-- Support Section Start -->
-    <section class="section-parallax" data-src="images/bg/4.png" data-stellar-background-ratio="0.5">
+    <section class="section-parallax" data-src="images/bg/mountains.webp" data-stellar-background-ratio="0.5">
         <span class="overlay-section-bg black-section-bg"></span>
         <div class="container section-typo-white">
             <div class="row">
@@ -415,10 +415,10 @@
     </section>
     <!-- Counter Section End -->
 
-    @include('partials.team')
+@include('partials.team')
 
-    <!-- Support Section Start -->
-    <section class="section-parallax" data-src="images/bg/2.png" data-stellar-background-ratio="0.5">
+<!-- Support Section Start -->
+    <section class="section-parallax" data-src="images/bg/mountains.webp" data-stellar-background-ratio="0.5">
         <span class="overlay-section-bg black-section-bg"></span>
         <div class="container section-typo-white">
             <div class="row">
@@ -434,102 +434,17 @@
 
 @include('partials.pricing')
 
-<!-- Support Section Start -->
-    <section class="section-parallax" data-src="images/bg/6.png" data-stellar-background-ratio="0.5">
-        <span class="overlay-section-bg primary-section-bg"></span>
-        <div class="container section-typo-white">
-            <div class="row">
-                <div class="col-sm-10 col-sm-offset-1 text-center">
-                    <h2 class="inline-content"><span>We Are Ready to Coming</span></h2>
-                    <!-- SECTION TITLE -->
-                    <a class="btn btn-default btn-xl btn-bg-white btn-inline" href="#">Get Started!</a>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Support Section End -->
-    <!-- Testimonial Section Start -->
-    <section class="section-parallax section-typo-white" data-src="images/bg/1.png" data-stellar-background-ratio="0.5">
-        <span class="overlay-section-bg black-section-bg"></span>
-        <div class="container section-typo-white">
-            <div class="row">
-                <div class="col-sm-8 col-sm-offset-2 text-center">
-                    <div class="testimonial-wrapper">
-                        <div class="owl-carousel white-dots testimonial-slider" data-items="1" data-loop="true"
-                             data-slideby="1" data-margin="0" data-nav="false" data-dots="true" data-smart-speed="1000"
-                             data-left-arrow="fa fa-angle-left" data-right-arrow="fa fa-angle-right">
-                            <div class="testimonial-item">
-                                <div class="testimonial-title">
-                                    <div class="testimonial-image img-thumbnail">
-                                        <img alt="" src="images/testimonial/1.png" class="img-responsive"
-                                             title="Testimonial"/>
-                                    </div>
-                                    <h4>John Doe</h4>
-                                    <span>Web Designer and Developer</span>
-                                </div>
-                                <div class="testimonial-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Far far away, behind the word
-                                        mountains, far from the countries.</p>
-                                </div>
-                            </div>
-                            <div class="testimonial-item">
-                                <div class="testimonial-title">
-                                    <div class="testimonial-image img-thumbnail">
-                                        <img alt="" src="images/testimonial/2.png" class="img-responsive"
-                                             title="Testimonial"/>
-                                    </div>
-                                    <h4>Selena Gomez</h4>
-                                    <span>UI Designer and Developer</span>
-                                </div>
-                                <div class="testimonial-content">
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt ut labore et dolore magna aliqua. Far far away, behind the word
-                                        mountains, far from the countries.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Testimonial Section End -->
-
 @include('partials.proces')
 
-<!-- Subsribe Section Start -->
-    <section class="section-parallax" data-src="images/bg/7.png" data-stellar-background-ratio="0.5">
-        <span class="overlay-section-bg black-section-bg"></span>
-        <div class="container section-typo-white">
-            <div class="row">
-                <div class="col-md-6 col-md-offset-3 col-sm-10 col-sm-offset-1 text-center">
-                    <div class="subscribe-form">
-                        <p id="subscribe-status-msg" class="hide"></p>
-                        <form id="subscribe-form" class="subscribe-form" action="inc/function.php">
-                            <div class="input-group subscribe-box">
-                                <input type="text" class="form-control" name="mcemail" autocomplete="off" id="mcemail"
-                                       placeholder="Email">
-                                <span class="input-group-btn">
-										<button class="btn btn-default white-border typo-gray subscribe-btn"
-                                                type="submit">Subscribe</button>
-										</span>
-                            </div>
-                            <!-- /input-group -->
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Subsribe Section End -->
-    <!-- Contact Section Start -->
+@include('partials.testimonials')
+
+<!-- Contact Section Start -->
     <section class="contact-section" id="kontakt">
         <div class="container">
             <div class="row text-center">
                 <div class="col-sm-8 col-sm-offset-2">
                     <div class="section-title">
-                        <h2 class="section-title-divider primary-divider">Contact Us</h2>
+                        <h2 class="section-title-divider primary-divider">Kontakt</h2>
                         <!-- SECTION TITLE -->
                         <p>
                             Zostaw swoje dane kontaktowe oraz cel kontaktu (np. diagnoza ADOS, konsultacja itp.) -
@@ -544,7 +459,9 @@
             <div class="row text-center">
                 <div class="col-sm-4">
                     <div class="contact-adress">
-                        <p class="contact-icons"><i class="fa fa-map-marker primary-color"></i></p>
+                        <p class="contact-icons">
+                            <i class="fa fa-map-marker primary-color"></i>
+                        </p>
                         <div class="padding-tb-20">
                             <p>
                                 132, Snow Street,<br/>
@@ -557,7 +474,7 @@
                     <div class="contact-mail">
                         <p class="contact-icons"><i class="fa fa-envelope-o primary-color"></i></p>
                         <div class="padding-tb-20">
-                            <p>info@companyname.com</p>
+                            <a href="mailto:ados@wzmocnienie.pl">ados@wzmocnienie.pl</a>
                         </div>
                     </div>
                 </div>
@@ -566,8 +483,7 @@
                         <p class="contact-icons"><i class="fa fa-phone primary-color"></i></p>
                         <div class="padding-tb-20">
                             <p>
-                                +44 222 1234<br/>
-                                +44 222 2341
+                                +44 222 1234
                             </p>
                         </div>
                     </div>
@@ -579,7 +495,7 @@
                     <form id="contact-form" class="contact-form" action="inc/function.php">
                         <div class="col-md-4 col-md-offset-2 padding-bottom-20">
                             <div class="form-group">
-                                <input id="name" class="form-control" name="name" autocomplete="off" placeholder="Name"
+                                <input id="name" class="form-control" name="name" autocomplete="off" placeholder="Imię"
                                        data-bv-field="name" type="text"/>
                             </div>
                         </div>
@@ -594,13 +510,12 @@
                         <div class="contact-message col-md-8 col-md-offset-2">
                             <div class="form-group margin-bottom-0">
                             <textarea id="message" class="form-control textarea" rows="3" name="message"
-                                      placeholder="Message" data-bv-field="message"></textarea>
+                                      placeholder="Wiadomość" data-bv-field="message"></textarea>
                             </div>
                         </div>
                         <div class="col-md-12 padding-top-30">
                             <button type="submit" class="btn btn-default btn-xl btn-normal margin-top-20 contact-btn">
-                                Send a
-                                Message
+                                Wyślij
                             </button>
                         </div>
                     </form>
@@ -615,61 +530,16 @@
         <div id="starkGoogleMap" style="width:100%;height:400px;" data-map-style="Silver"></div>
     </section>
     <!-- Map Section End -->
-    <!-- Our Clients Section Start -->
-    <section class="padding-tb-40">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="client-slider-wrap">
-                        <div class="owl-carousel client-slider" data-items="5" data-loop="true" data-margin="30"
-                             data-nav="false" data-slideby="1" data-dots="false" data-smart-speed="1000"
-                             data-left-arrow="fa fa-angle-left" data-right-arrow="fa fa-angle-right">
-                            <div class="client-item">
-                                <a href="#"><img alt="" class="img-responsive" src="images/clients/1.png"/></a>
-                            </div>
-                            <div class="client-item">
-                                <a href="#"><img alt="" class="img-responsive" src="images/clients/2.png"/></a>
-                            </div>
-                            <div class="client-item">
-                                <a href="#"><img alt="" class="img-responsive" src="images/clients/3.png"/></a>
-                            </div>
-                            <div class="client-item">
-                                <a href="#"><img alt="" class="img-responsive" src="images/clients/4.png"/></a>
-                            </div>
-                            <div class="client-item">
-                                <a href="#"><img alt="" class="img-responsive" src="images/clients/5.png"/></a>
-                            </div>
-                            <div class="client-item">
-                                <a href="#"><img alt="" class="img-responsive" src="images/clients/6.png"/></a>
-                            </div>
-                            <div class="client-item">
-                                <a href="#"><img alt="" class="img-responsive" src="images/clients/7.png"/></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Our Clients Section End -->
+
     <!-- Footer Start -->
     <footer class="footer padding-tb-30 primary-section-bg section-typo-white">
         <div class="container">
-            <div class="row text-center margin-bottom-20">
-                <div class="col-md-12">
-                    <ul class="nav navbar-nav footer-social">
-                        <li><a href="#" class="social-facebook"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#" class="social-twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#" class="social-pinterest"><i class="fa fa-pinterest-p"></i></a></li>
-                        <li><a href="#" class="social-instagram"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#" class="social-google-plus"><i class="fa fa-google-plus"></i></a></li>
-                    </ul>
-                </div>
-            </div>
             <div class="row text-center">
                 <div class="col-md-12">
-                    <p class="copyright-text">Copyright &copy; 2017 Start. Designed by <a
-                            href="https://wpthemedevelopers.com/">Foxy Web Themes</a></p>
+                    <p class="copyright-text">Copyright &copy; 2021
+                        <a href="https://wzmocnienie.pl">Wzmocnienie Aleksandra Magda</a>.
+                        Designed by <a href="https://gackowski.edu.pl/">Szymon Gackowski</a>
+                    </p>
                 </div>
             </div>
         </div>
