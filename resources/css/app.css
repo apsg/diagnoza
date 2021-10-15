@@ -8,3 +8,7 @@
     height: auto;
     display: inline-block;
 }
+
+.section-parallax {
+    background-size: cover !important;
+}

@@ -162,7 +162,7 @@
                     <!-- THEME DEFAULT BUTTON WITH NORMAL STYLE -->
                 </div>
                 <div class="col-md-6 hidden-sm hidden-xs media">
-                    <img alt="" src="images/about.png" class="img-responsive"/>
+                    <img alt="" src="images/kitku.webp" class="img-responsive"/>
                 </div>
             </div>
         </div>
