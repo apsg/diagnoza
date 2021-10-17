@@ -1,4 +1,3 @@
-
 <!-- Support Section Start -->
 <section class="section-parallax" data-src="images/bg/trees.webp" data-stellar-background-ratio="0.5">
     <span class="overlay-section-bg primary-section-bg"></span>
@@ -12,7 +11,8 @@
 </section>
 <!-- Support Section End -->
 <!-- Testimonial Section Start -->
-<section class="section-parallax section-typo-white" data-src="images/bg/trees.webp" data-stellar-background-ratio="0.5">
+<section class="section-parallax section-typo-white" data-src="images/bg/trees.webp"
+         data-stellar-background-ratio="0.5">
     <span class="overlay-section-bg black-section-bg"></span>
     <div class="container section-typo-white">
         <div class="row">
@@ -50,7 +50,7 @@
                                 <span>ul. Słowackiego 49, Wieliczka</span>
                             </div>
                             <div class="testimonial-content">
-                                <p>Niepubliczna specjalistyczna poradnia psychologiczno-pedagogiczna.</p>
+                                <p>Niepubliczna Specjalistyczna Poradnia Psychologiczno-Pedagogiczna</p>
                             </div>
                         </div>
                     </div>
