@@ -21,8 +21,10 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav pull-right">
-                <li class="active"><a href="#home">Home</a></li>
-                <li><a href="#about">O Badaniu</a></li>
+                <li class="active"><a href="#home">
+                        <i class="fa fa-home"></i>
+                    </a></li>
+                <li><a href="#about">ADOS-2</a></li>
                 <li><a href="#service">Zespół</a></li>
                 <li><a href="#cennik">Cennik</a></li>
                 <li><a href="#proces">Proces</a></li>

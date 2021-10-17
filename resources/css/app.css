@@ -3,7 +3,7 @@
     background-position: center center !important;
 }
 
-.testimonial-image{
+.testimonial-image {
     max-width: 400px;
     height: auto;
     display: inline-block;
@@ -11,4 +11,14 @@
 
 .section-parallax {
     background-size: cover !important;
+}
+
+.modal-body h5,
+.modal-header h5 {
+    font-size: 1.2em;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-between;
 }

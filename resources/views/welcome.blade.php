@@ -116,7 +116,7 @@
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1 text-center">
                     <div class="section-title">
-                        <h2 class="section-title-divider">Diagnoza ADOS-2 w Krakowie</h2>
+                        <h2 class="section-title-divider">Diagnoza ADOS-2 w {{ \App\CitiesHelper::get('msc') }}</h2>
                         <!-- SECTION TITLE -->
                         <p>
                             Diagnoza autyzmu
@@ -124,6 +124,7 @@
                     </div>
                     <a class="btn btn-default btn-xl btn-bg-white" href="#proces">Zobacz jak przebiega proces
                         badania</a>
+                    <a class="btn btn-default btn-xl btn-bg-white margin-lr-50" href="#proces">Czym jest ADOS-2?</a>
                     <!-- THEME DEFAULT BUTTON WITH WHITE BACKGROUND -->
                 </div>
             </div>
@@ -138,27 +139,81 @@
                         <div class="section-sub-title">
                             <h3 class="under-line">Kim jesteśmy</h3>
                         </div>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Consectetur adipiscing elit, sed do eiusmod tempor incididunt
-                            ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris nisi ut.
+                        <p class="text-justify">
+                            Jesteśmy zespołem specjalistek zajmujących się diagnozą i terapią zaburzeń neurorozwojowych
+                            u dzieci, młodzieży i dorosłych. Pracujemy w oparciu o metody potwierdzone naukowo. Diagnozę
+                            trudności traktujemy jako początek drogi, etap który ma na celu lepsze zrozumienie drugiego
+                            człowieka, jego potrzeb i mocnych stron. Wszystko po to, by pomóc w znalezieniu sposobu na
+                            lepsze poznanie siebie i uzyskanie wsparcia, które może ułatwić codzienne funkcjonowanie.
+                        </p>
+                        <p class="text-justify">
+                            Jesteśmy psycholożkami i psychoterapeutkami poznawczo-behawioralnymi w trakcie procesu
+                            certyfikacji. W swojej pracy wykorzystujemy techniki terapii behawioralnej, poznawczej oraz
+                            terapii schematów, z uwzględnieniem perspektywy rozwojowej. Bardzo ważnym jest dla nas
+                            zbudowanie relacji, w której druga osoba czuje się bezpiecznie i swobodnie i w oparciu o nią
+                            wspólnie odkrywać drogę prowadzącą do zmiany.
+                        </p>
+                        <p class="text-justify">
+                            W pracy z dziećmi z zaburzeniami rozwojowymi dążymy do tego, by wspierać je w nabywaniu
+                            umiejętności, z których mogą skorzystać od zaraz, zwłaszcza poza gabinetem. Istotne jest, by
+                            terapia była dobrym, bezpiecznym i rozwijającym doświadczeniem dla dziecka i jego
+                            najbliższych.
                         </p>
                     </div>
                     <div class="col-inner">
                         <div class="section-sub-title">
-                            <h3 class="under-line">Zakres badań</h3>
+                            <h3 class="under-line">Zakres usług</h3>
                         </div>
                         <ul class="star-list">
-                            <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit</li>
-                            <li>Sed do eiusmod tempor incididunt ut labore et dolore</li>
-                            <li>Quis nostrud exercitation ullamco laboris nisi</li>
-                            <li>Ut enim ad minim veniam, quis nostrud exercitation</li>
-                            <li>Ullamco laboris nisi ut aliquip ex ea</li>
+                            <li>diagnoza różnicowa zaburzeń u dzieci, młodzieży i osób, dorosłych,</li>
+                            <li>konsultacje psychologiczne,</li>
+                            <li>wsparcie w zakresie planowania procesu terapeutycznego dzieci i młodzieży,</li>
+                            <li>terapia dzieci, młodzieży i osób dorosłych.</li>
                         </ul>
                     </div>
-                    <a class="btn btn-default btn-xl btn-normal margin-top-20" href="#">Read More</a>
+
+                    <button type="button" class="btn btn-primary btn-default btn-xl btn-normal" data-toggle="modal"
+                            data-target="#more">Przeczytaj więcej
+                    </button>
+
+                    <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog"
+                         aria-labelledby="myLargeModalLabel" aria-hidden="true" id="more">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>Diagnoza różnicowa to złożony proces. Polega on na testowaniu różnych hipotez
+                                        diagnostycznych, by znaleźć te, które w najlepszy sposób wyjaśniają przyczyny
+                                        trudności.
+                                        Bazujemy w nim na informacjach dostępnych z wywiadu, obserwacji, dokumentacji
+                                        czy
+                                        materiału filmowego.</p>
+                                    <p>
+                                        W praktyce oznacza to, że po zakończeniu diagnozy otrzymają
+                                        Państwo
+                                        nie tylko informację o tym, czy osoba diagnozowana spełnia kryteria
+                                        diagnostyczne
+                                        dla
+                                        zaburzenia ze spektrum autyzmu czy nie, ale także zwrócimy uwagę na inne objawy,
+                                        które
+                                        wskazują na to, że bardziej trafne są inne hipotezy diagnostyczne lub
+                                        wyjaśnienia
+                                        mechanizmów pojawiania się
+                                        i utrzymywania trudności. Może to w niektórych przypadkach oznaczać konieczność
+                                        dalszego
+                                        działania diagnostycznego. Staramy się wówczas przekazywać możliwie
+                                        najdokładniejsze
+                                        informacje, które mają pomóc.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
                     <!-- THEME DEFAULT BUTTON WITH NORMAL STYLE -->
                 </div>
                 <div class="col-md-6 hidden-sm hidden-xs media">
@@ -188,12 +243,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="section-title">
-                        <h2 class="section-title-divider primary-divider">Zakres badań</h2>
-                        <!-- SECTION TITLE -->
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.
-                        </p>
+                        <h2 class="section-title-divider primary-divider">Zakres usług</h2>
                     </div>
                 </div>
             </div>
@@ -201,158 +251,59 @@
                 <div class="col-md-3 col-sm-6 service-box-col">
                     <figure>
                         <div class="service-image">
-                            <i class="flaticon-screen-1"></i>
+                            <i class="flaticon-line-chart"></i>
                         </div>
                     </figure>
                     <h4 class="service-title title-bordered">Diagnoza ADOS</h4>
-                    <p class="service-content">Far far away, behind the word mountains, far from the countries Vokalia
-                        and
-                        Consonantia.</p>
+                    <p class="service-content">
+                        Diagnoza psychologiczna pod kątem zaburzeń ze spektrum autyzmu z wykorzystaniem skali ADOS-2.
+                    </p>
                 </div>
                 <div class="col-md-3 col-sm-6 service-box-col">
                     <figure>
                         <div class="service-image">
-                            <i class="flaticon-smartphone"></i>
+                            <i class="flaticon-speech-balloons"></i>
                         </div>
                     </figure>
-                    <h4 class="service-title title-bordered">Diagnoza klasyczna</h4>
-                    <p class="service-content">Far far away, behind the word mountains, far from the countries Vokalia
-                        and
-                        Consonantia.</p>
+                    <h4 class="service-title title-bordered">Konsultacje psychologiczne</h4>
+                    <p class="service-content">
+                        Spotkanie z osobą dorosłą mające na celu poszukiwanie rozwiązań dla aktualnych trudności lub
+                        ustalenie najbardziej optymalnych form wsparcia.
+                    </p>
                 </div>
                 <div class="col-md-3 col-sm-6 service-box-col">
                     <figure>
                         <div class="service-image">
-                            <i class="flaticon-snowflake"></i>
+                            <i class="flaticon-fast-forward-button"></i>
                         </div>
                     </figure>
-                    <h4 class="service-title title-bordered">Konsultacje</h4>
-                    <p class="service-content">Far far away, behind the word mountains, far from the countries Vokalia
-                        and
-                        Consonantia.</p>
+                    <h4 class="service-title title-bordered">Wsparcie w zakresie planowania procesu terapeutycznego</h4>
+                    <p class="service-content">
+                        Wspólne ustalenie celów pracy w oparciu podejście rozwojowe, a także przygotowanie sposobów
+                        realizacji celów w sposób możliwie najbardziej dostosowany do potrzeb i zasobów dziecka. Możliwe
+                        jest także uzyskanie wsparcia w przygotowaniu Indywidualnego Programu
+                        Edukacyjno-Terapeutycznego.
+                    </p>
                 </div>
                 <div class="col-md-3 col-sm-6 service-box-col">
                     <figure>
                         <div class="service-image">
-                            <i class="flaticon-star"></i>
+                            <i class="flaticon-compass"></i>
                         </div>
                     </figure>
-                    <h4 class="service-title title-bordered">Obserwacja</h4>
-                    <p class="service-content">Far far away, behind the word mountains, far from the countries Vokalia
-                        and
-                        Consonantia.</p>
+                    <h4 class="service-title title-bordered">Terapia dzieci, młodzieży i osób dorosłych.</h4>
+                    <p class="service-content">
+                        Prowadzimy psychoterapię w nurcie poznawczo-behawioralnych oraz z wykorzystaniem technik
+                        trzeciej fali CBT. W pracy z małymi dziećmi z zaburzeniami ze spektrum autyzmu bazujemy na
+                        rozwijaniu funkcjonalnych umiejętności, rozpoczynając od budowania umiejętności komunikacyjnych
+                        i ułatwiających aktualne funkcjonowanie społeczne.
+                    </p>
                 </div>
             </div>
         </div>
     </section>
     <!-- Service Section End -->
 
-    <!-- Features Section Start -->
-    <section class="padding-bottom-50" id="features">
-        <div class="container">
-            <div class="row text-center">
-                <div class="col-sm-12">
-                    <div class="section-title">
-                        <h2 class="section-title-divider primary-divider">Our Features</h2>
-                        <!-- SECTION TITLE -->
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="row margin-bottom-0">
-                <div class="col-sm-4">
-                    <div class="media feature-box">
-                        <div class="media-left">
-									<span class="feature-icon">
-									<i class="fa fa-cubes"></i>
-									</span>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">UX Design</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="media feature-box">
-                        <div class="media-left">
-									<span class="feature-icon">
-									<i class="fa fa-desktop"></i>
-									</span>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">UI Design</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="media feature-box">
-                        <div class="media-left">
-									<span class="feature-icon">
-									<i class="fa fa-bar-chart"></i>
-									</span>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">Quality Control</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row margin-bottom-0">
-                <div class="col-sm-4">
-                    <div class="media feature-box">
-                        <div class="media-left">
-									<span class="feature-icon">
-									<i class="fa fa-fighter-jet"></i>
-									</span>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">SEO Support</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="media feature-box">
-                        <div class="media-left">
-									<span class="feature-icon">
-									<i class="fa fa-server"></i>
-									</span>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">Server Maintanence</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="media feature-box">
-                        <div class="media-left">
-									<span class="feature-icon">
-									<i class="fa fa-code"></i>
-									</span>
-                        </div>
-                        <div class="media-body">
-                            <h4 class="media-heading">Code Develop</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Features Section End -->
     <!-- Counter Section Start -->
     <section class="section-parallax padding-bottom-50" data-src="images/bg/3.png" data-stellar-background-ratio="0.5">
         <span class="overlay-section-bg primary-section-bg"></span>
@@ -363,8 +314,8 @@
 								<span class="counter-icon">
 								<i class="flaticon-user"></i>
 								</span>
-                        <h3 class="counter" data-counter="9894">
-                            9894
+                        <h3 class="counter" data-counter="791">
+                            791
                         </h3>
                         <span class="counter-text">
 								Wykonanych diagnoz
@@ -374,40 +325,40 @@
                 <div class="col-md-3 col-sm-6">
                     <div class="counter-wrap">
 								<span class="counter-icon">
-								<i class="flaticon-wallet"></i>
+								<i class="flaticon-clock"></i>
 								</span>
-                        <h3 class="counter" data-counter="15">
-                            15
+                        <h3 class="counter" data-counter="211">
+                            211
                         </h3>
                         <span class="counter-text">
-								Współpracujących placówek
+                            Godzin na sali szkoleniowej
 						</span>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="counter-wrap">
-								<span class="counter-icon">
-								<i class="flaticon-trophy"></i>
-								</span>
-                        <h3 class="counter" data-counter="73">
-                            73
+                        <span class="counter-icon">
+								<i class="flaticon-home"></i>
+						</span>
+                        <h3 class="counter" data-counter="11">
+                            11
                         </h3>
                         <span class="counter-text">
-								Winning Awards
-								</span>
+                            Współpracujących jednostek
+                        </span>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div class="counter-wrap">
 								<span class="counter-icon">
-								<i class="flaticon-star"></i>
+								<i class="flaticon-pencil"></i>
 								</span>
-                        <h3 class="counter" data-counter="580">
-                            580
+                        <h3 class="counter" data-counter="48">
+                            48
                         </h3>
                         <span class="counter-text">
-								User Reviews
-								</span>
+                            Odbytych szkoleń specjalistycznych
+                        </span>
                     </div>
                 </div>
             </div>
@@ -423,9 +374,10 @@
         <div class="container section-typo-white">
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1 text-center">
-                    <h2 class="inline-content"><span>We Are Ready to Coming</span></h2>
+                    <h2 class="inline-content"><span>Gabinet psychoterapii "Wzmocnienie"</span></h2>
                     <!-- SECTION TITLE -->
-                    <a class="btn btn-default btn-xl btn-bg-white btn-inline" href="#">Get Started!</a>
+                    <a class="btn btn-default btn-xl btn-bg-white btn-inline" href="https://wzmocnienie.pl"
+                       target="_blank">wzmocnienie.pl</a>
                 </div>
             </div>
         </div>
@@ -457,34 +409,23 @@
                 </div>
             </div>
             <div class="row text-center">
-                <div class="col-sm-4">
+                <div class="col-sm-6">
                     <div class="contact-adress">
                         <p class="contact-icons">
                             <i class="fa fa-map-marker primary-color"></i>
                         </p>
                         <div class="padding-tb-20">
                             <p>
-                                132, Snow Street,<br/>
-                                London, 89785
+                                {{ \App\CitiesHelper::get('address') }}
                             </p>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-4">
+                <div class="col-sm-6">
                     <div class="contact-mail">
                         <p class="contact-icons"><i class="fa fa-envelope-o primary-color"></i></p>
                         <div class="padding-tb-20">
                             <a href="mailto:ados@wzmocnienie.pl">ados@wzmocnienie.pl</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="contact-number">
-                        <p class="contact-icons"><i class="fa fa-phone primary-color"></i></p>
-                        <div class="padding-tb-20">
-                            <p>
-                                +44 222 1234
-                            </p>
                         </div>
                     </div>
                 </div>

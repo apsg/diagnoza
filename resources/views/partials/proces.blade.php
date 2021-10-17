@@ -20,10 +20,6 @@
             <div class="col-sm-12">
                 <div class="section-title">
                     <h2 class="section-title-divider primary-divider">Jak wygląda proces badania</h2>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua.
-                    </p>
                 </div>
             </div>
         </div>
@@ -52,12 +48,10 @@
                         <div class="timeline-panel">
                             <div class="tl-heading">
                                 <h4>Rozmowa wstępna i umówienie terminu spotkania</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 15-30 min,
-                                        telefonicznie</small></p>
                             </div>
                             <div class="tl-body">
-                                <p>Hope the weather gets a bit nicer...</p>
-                                <p>Y'know, with more sunlight.</p>
+                                <p>Krótki kontakt telefoniczny lub mailowy mający na celu ustalenie celu i formy
+                                    spotkań.</p>
                             </div>
                         </div>
                     </li>
@@ -76,7 +70,22 @@
                                 </p>
                             </div>
                             <div class="tl-body">
-                                <p>Lorem Ipsum and such.</p>
+                                <p>
+                                    Spotkanie trwające około 2 godzin. W przypadku diagnozy dzieci i nastolatków odbywa
+                                    się ono pod nieobecność młodego człowieka. W procesie diagnozy osób dorosłych na tym
+                                    etapie ważne jest spotkanie z członkiem rodziny, który ma informacje na temat
+                                    rozwoju. Jeśli jest to niemożliwe ważne jest spotkanie z osobą, z którą osoba
+                                    chcąca wziąć udział w diagnozie pozostaje w bliskiej relacji. W spotkaniu biorą
+                                    wówczas udział obie osoby. Na tym etapie prosimy także o dostarczenie opinii z
+                                    placówek oświatowych do których uczęszczają dzieci, w przypadku osób dorosłych mogą
+                                    być to oceny opisowe ze szkoły lub inne opinie pisemne. Jeśli to możliwe prosimy o
+                                    udostępnienie filmów prezentujących charakterystyczne aktywności młodego człowieka,
+                                    w swobodnym dla niego środowisku.
+                                </p>
+                                <p>
+                                    Możliwe jest przeprowadzenie wywiadu w formie on-line albo osobiście w Krakowie lub
+                                    Wieliczce.
+                                </p>
                             </div>
                         </div>
                     </li>
@@ -90,8 +99,18 @@
                                         terapeutki</small></p>
                             </div>
                             <div class="tl-body">
-                                <p>Hope the weather gets a bit nicer...</p>
-                                <p>Y'know, with more sunlight.</p>
+                                <p>
+                                    W każdy spotkaniu biorą udział dwie diagnostki – jedna osoba pozostaje w relacji z
+                                    osobą biorącą udział w procesie diagnostycznym, druga zaś pełni funkcję
+                                    obserwatorki. Na jednym ze spotkań przeprowadzona zostaje diagnoza z wykorzystaniem
+                                    ADOS-2, drugie zaś jest mniej ustrukturyzowane, ma na celu potwierdzenie wstępnych
+                                    hipotez i obserwacji, a także poszerzenie ich o nieco inny kontekst sytuacyjny. W
+                                    wyjątkowych sytuacjach, (np. dużych wątpliwości diagnostycznych) proponujemy
+                                    umówienie dodatkowego spotkania lub (w przypadku dzieci) pytamy o możliwość
+                                    obserwacji w naturalnym środowisku – szkole, przedszkolu, żłobku. Czasem także
+                                    prosimy osoby dorosłe o powrót do etapu wywiadu, by wyjaśnić nieścisłości, które
+                                    uwidaczniają się podczas kolejnych spotkań.
+                                </p>
                             </div>
                         </div>
                     </li>
@@ -106,7 +125,19 @@
                                 <p><small class="text-muted"><i class="fa fa-clock-o"></i> 2 tygodnie</small></p>
                             </div>
                             <div class="tl-body">
-                                <p>In memory of Steve Jobs.</p>
+                                <p>
+                                    Proces ten trwa około dwóch tygodniu. Podsumowujemy wówczas wszystkie zebrane
+                                    informacje, odnosimy się do kryteriów diagnostycznych dla konkretnych trudności
+                                    zawartych w
+                                    <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
+                                    oraz
+                                    <a href="https://pl.wikipedia.org/wiki/Międzynarodowa_Klasyfikacja_Chorób_ICD-10"
+                                       target="_blank">ICD-10/11</a>.
+                                    Na tej podstawie przygotowujemy dokument opisujący
+                                    proces diagnostyczny.
+                                    W przypadku rozpoznania konkretnych trudności uwzględniamy w nim zalecenia do
+                                    dalszej pracy.
+                                </p>
                             </div>
                         </div>
                     </li>
@@ -118,10 +149,10 @@
                                 <p><small class="text-muted"><i class="fa fa-clock-o"></i> 1-2 h</small></p>
                             </div>
                             <div class="tl-body">
-                                <p>Here you'll find some beautiful photography for your viewing pleasure, courtesy
-                                    of <a
-                                        href="https://wpthemedevelopers.com/">foxywebthemes</a>.</p>
-                                <p><img class="img-responsive" src="images/timeline/1.png" alt="New Environment">
+                                <p>
+                                    Spotkanie podsumowujące podczas którego osoba prowadząca badanie przekazuje wyniki
+                                    postępowania diagnostycznego oraz zalecenia do dalszej pracy, jeśli to konieczne.
+                                    Staramy się wówczas udzielić wsparcia w zakresie możliwych dalszych działań.
                                 </p>
                             </div>
                         </div>
@@ -133,9 +164,13 @@
                                 <h4>Możliwość przygotowania planu terapeutycznego</h4>
                             </div>
                             <div class="tl-body">
-                                <p>Możliwe jest przygotowanie dodatkowego planu terapeutycznego, np. dla szkoły,
-                                    przedszkola.
-                                    Plan terapeutyczny jest dodatkowo płatny i nie wchodzi w skład badania ADOS-2.</p>
+                                <p>
+                                    Możliwe jest przygotowanie dodatkowego planu terapeutycznego, np. dla szkoły,
+                                    przedszkola. Plan terapeutyczny jest dodatkowo płatny i nie wchodzi w skład
+                                    podstawowej usługi diagnostycznej. Opieramy go umiejętności prezentowane przez
+                                    dziecko i planujemy oddziaływania w oparciu o cele znajdujące się sferze
+                                    najbliższego rozwoju, które będą funkcjonalnymi dla dziecka.
+                                </p>
                             </div>
                         </div>
                     </li>

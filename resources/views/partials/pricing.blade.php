@@ -37,7 +37,7 @@
                 <div class="pricing-table featured">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>1500<br/><span>PLN</span></h3>
+                            <h3>850<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza ADOS-2</h2>
