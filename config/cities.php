@@ -6,7 +6,7 @@ return [
     'krakow' => [
         'name'    => 'Kraków',
         'msc'     => 'Krakowie',
-        'address' => 'ul. Edmunda Wasilewskiego 20/10, Kraków',
+        'address' => 'ul. E. Wasilewskiego 20/10, Kraków' . PHP_EOL . 'ul. Słowackiego 49, Wieliczka',
     ],
 
     'swiecie' => [

@@ -416,7 +416,7 @@
                         </p>
                         <div class="padding-tb-20">
                             <p>
-                                {{ \App\CitiesHelper::get('address') }}
+                                {!! nl2br(\App\CitiesHelper::get('address')) !!}
                             </p>
                         </div>
                     </div>
