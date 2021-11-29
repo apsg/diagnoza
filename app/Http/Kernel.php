@@ -41,6 +41,7 @@ class Kernel extends HttpKernel
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
             HttpToHttpsRedirectMiddleware::class,
             RetrieveCityMiddleware::class,
+            HttpToHttpsRedirectMiddleware::class,
         ],
 
         'api' => [
