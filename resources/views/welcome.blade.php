@@ -16,10 +16,10 @@
     <!-- ANIMATE CSS -->
     <link rel="stylesheet" href="css/animate.min.css" type="text/css"/>
     <!-- LIGHTBOX CSS -->
-    <link rel="stylesheet" href="css/lightbox.min.css" type="text/css"/>
-    <!-- YTPLAYER CSS -->
-    <link rel="stylesheet" href="css/mb.YTPlayer.min.css" type="text/css"/>
-    <!-- FLATICON CSS -->
+{{--    <link rel="stylesheet" href="css/lightbox.min.css" type="text/css"/>--}}
+<!-- YTPLAYER CSS -->
+{{--    <link rel="stylesheet" href="css/mb.YTPlayer.min.css" type="text/css"/>--}}
+<!-- FLATICON CSS -->
     <link rel="stylesheet" href="css/flaticon.css" type="text/css"/>
     <!-- BOOTSTRAP VALIDATOR CSS -->
     <link rel="stylesheet" href="css/validator.min.css" type="text/css"/>
@@ -41,9 +41,6 @@
 </head>
 <body data-spy="scroll" data-offset="62">
 
-<!-- Page Loader -->
-<div class="page-loader"></div>
-<!-- Fixed Navbar -->
 
 <div class="main-wrap">
 
@@ -66,12 +63,6 @@
                                         data-animation="lightSpeedIn"
                                         data-animation-duration="2.5s">Diagnoza <span
                                             class="primary-color">ADOS-2</span></h1>
-                                    <p class="stark-animated animated" data-animation="bounceInDown"
-                                       data-animation-duration="2s">Start Bootstrap can help you build better websites
-                                        using
-                                        the Bootstrap CSS framework! Just download your template and start going, no
-                                        strings
-                                        attached!</p>
                                 </div>
                                 <a class="btn btn-default btn-xl stark-animated animated" href="#about"
                                    data-animation="bounceInDown" data-animation-duration="1.5s"
@@ -90,16 +81,12 @@
                                         data-animation-duration="2.5s">Badanie <span
                                             class="primary-color">dorosłych</span>
                                         w kierunku autyzmu</h1>
-                                    <p class="stark-animated animated" data-animation="bounceInDown"
-                                       data-animation-duration="2s">
-                                        Jako jedna z nielicznych placówek w Polsce oferujemy również badanie osób
-                                        dorosłych.
-                                    </p>
                                 </div>
                                 <a class="btn btn-default btn-xl stark-animated animated" href="#about"
                                    data-animation="bounceInDown" data-animation-duration="1.5s"
-                                   data-animation-delay="1000">Find
-                                    Out More</a> <!-- THEME DEFAULT BUTTON -->
+                                   data-animation-delay="1000">
+                                    Dowiedz się więcej
+                                </a> <!-- THEME DEFAULT BUTTON -->
                             </div>
                         </div><!-- .header-content -->
                     </div><!-- .item -->
@@ -280,9 +267,7 @@
                     <h4 class="service-title title-bordered">Wsparcie w zakresie planowania procesu terapeutycznego</h4>
                     <p class="service-content">
                         Wspólne ustalenie celów pracy w oparciu podejście rozwojowe, a także przygotowanie sposobów
-                        realizacji celów w sposób możliwie najbardziej dostosowany do potrzeb i zasobów dziecka. Możliwe
-                        jest także uzyskanie wsparcia w przygotowaniu Indywidualnego Programu
-                        Edukacyjno-Terapeutycznego.
+                        realizacji celów w sposób możliwie najbardziej dostosowany do potrzeb i zasobów dziecka.
                     </p>
                 </div>
                 <div class="col-md-3 col-sm-6 service-box-col">
@@ -294,9 +279,7 @@
                     <h4 class="service-title title-bordered">Terapia dzieci, młodzieży i osób dorosłych.</h4>
                     <p class="service-content">
                         Prowadzimy psychoterapię w nurcie poznawczo-behawioralnych oraz z wykorzystaniem technik
-                        trzeciej fali CBT. W pracy z małymi dziećmi z zaburzeniami ze spektrum autyzmu bazujemy na
-                        rozwijaniu funkcjonalnych umiejętności, rozpoczynając od budowania umiejętności komunikacyjnych
-                        i ułatwiających aktualne funkcjonowanie społeczne.
+                        trzeciej fali CBT.
                     </p>
                 </div>
             </div>
@@ -305,7 +288,8 @@
     <!-- Service Section End -->
 
     <!-- Counter Section Start -->
-    <section class="section-parallax padding-bottom-50" data-src="images/bg/3.png" data-stellar-background-ratio="0.5">
+    <section class="section-parallax padding-bottom-50" data-src="images/bg/trees.webp"
+             data-stellar-background-ratio="0.5">
         <span class="overlay-section-bg primary-section-bg"></span>
         <div class="container section-typo-white">
             <div class="row text-center">
@@ -331,7 +315,7 @@
                             211
                         </h3>
                         <span class="counter-text">
-                            Godzin na sali szkoleniowej
+                            Godzin przeprowadzonych szkoleń
 						</span>
                     </div>
                 </div>
@@ -433,7 +417,8 @@
             <div class="row text-center">
                 <div class="contact-form">
                     <p id="contact-status-msg" class="hide"></p>
-                    <form id="contact-form" class="contact-form" action="inc/function.php">
+                    <form id="contact-form" class="contact-form" action="{{ url('/contact') }}" method="POST">
+                        @csrf
                         <div class="col-md-4 col-md-offset-2 padding-bottom-20">
                             <div class="form-group">
                                 <input id="name" class="form-control" name="name" autocomplete="off" placeholder="Imię"

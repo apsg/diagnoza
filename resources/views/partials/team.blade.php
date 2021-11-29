@@ -15,14 +15,14 @@
             <div class="col-md-3 col-md-offset-3 col-sm-6">
                 <div class="team-wrap text-center">
                     <div class="team-image">
-                        <img alt="" src="images/team/1.png" title="Aleksandra Magda" class="img-responsive"/>
+                        <img alt="" src="images/ola.webp" title="Aleksandra Magda" class="img-responsive"/>
                     </div>
                     <div class="team-title">
                         <h3>Aleksandra Magda</h3>
-                        <span>Psychoterapeutka</span>
+                        <span>Psycholożka</span>
                     </div>
                     <div class="team-content">
-                        Specjalistka w zakresie...
+                        Psychoterapeutka CBT
                     </div>
                     <div class="team-social-links">
                         <button type="button" class="btn btn-primary btn-default btn-xl btn-normal" data-toggle="modal"
@@ -121,14 +121,14 @@
             <div class="col-md-3 col-sm-6">
                 <div class="team-wrap text-center">
                     <div class="team-image">
-                        <img alt="" src="images/team/2.png" title="Oliwia Markowska" class="img-responsive"/>
+                        <img alt="" src="images/oliwia.webp" title="Oliwia Markowska" class="img-responsive"/>
                     </div>
                     <div class="team-title">
                         <h3>Oliwia Markowska</h3>
-                        <span>Psychoterapeutka</span>
+                        <span>Psycholożka</span>
                     </div>
                     <div class="team-content">
-                        Specjalistka...
+                        Psychoterapeutka CBT
                     </div>
                     <div class="team-social-links">
                         <button type="button" class="btn btn-primary btn-default btn-xl btn-normal" data-toggle="modal"

@@ -126,7 +126,7 @@
                             </div>
                             <div class="tl-body">
                                 <p>
-                                    Proces ten trwa około dwóch tygodniu. Podsumowujemy wówczas wszystkie zebrane
+                                    Proces ten trwa około dwóch tygodni. Podsumowujemy wówczas wszystkie zebrane
                                     informacje, odnosimy się do kryteriów diagnostycznych dla konkretnych trudności
                                     zawartych w
                                     <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
