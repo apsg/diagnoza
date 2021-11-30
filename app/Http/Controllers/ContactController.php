@@ -17,6 +17,6 @@ class ContactController extends Controller
                 $request->input('message')
             ));
 
-        return Response::json([]);
+        return Response::json(['Wysłano. Dziękujemy za kontakt, odezwiemy się do Ciebie.']);
     }
 }
