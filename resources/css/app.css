@@ -18,7 +18,15 @@
     font-size: 1.2em;
 }
 
-.d-flex{
+.d-flex {
     display: flex;
     justify-content: space-between;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.text-bold {
+    font-weight: 700;
 }

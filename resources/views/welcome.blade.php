@@ -121,7 +121,7 @@
     <section>
         <div class="container">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-12">
                     <div class="col-inner">
                         <div class="section-sub-title">
                             <h3 class="under-line">Kim jesteśmy</h3>
@@ -203,9 +203,9 @@
 
                     <!-- THEME DEFAULT BUTTON WITH NORMAL STYLE -->
                 </div>
-                <div class="col-md-6 hidden-sm hidden-xs media">
-                    <img alt="" src="images/kitku.webp" class="img-responsive"/>
-                </div>
+{{--                <div class="col-md-6 hidden-sm hidden-xs media">--}}
+{{--                    <img alt="" src="images/kitku.webp" class="img-responsive"/>--}}
+{{--                </div>--}}
             </div>
         </div>
     </section>
