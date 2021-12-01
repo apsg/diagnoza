@@ -37,7 +37,20 @@
     <link rel="stylesheet" href="{{ asset('/css/app.css') }}" type="text/css">
 
     @meta_tags
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-QD1TJ1SSYL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
+        gtag('js', new Date());
+
+        gtag('config', 'G-QD1TJ1SSYL');
+    </script>
+    
 </head>
 <body data-spy="scroll" data-offset="62">
 
@@ -203,9 +216,9 @@
 
                     <!-- THEME DEFAULT BUTTON WITH NORMAL STYLE -->
                 </div>
-{{--                <div class="col-md-6 hidden-sm hidden-xs media">--}}
-{{--                    <img alt="" src="images/kitku.webp" class="img-responsive"/>--}}
-{{--                </div>--}}
+                {{--                <div class="col-md-6 hidden-sm hidden-xs media">--}}
+                {{--                    <img alt="" src="images/kitku.webp" class="img-responsive"/>--}}
+                {{--                </div>--}}
             </div>
         </div>
     </section>
