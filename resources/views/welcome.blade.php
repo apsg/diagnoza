@@ -15,11 +15,6 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css"/>
     <!-- ANIMATE CSS -->
     <link rel="stylesheet" href="css/animate.min.css" type="text/css"/>
-    <!-- LIGHTBOX CSS -->
-{{--    <link rel="stylesheet" href="css/lightbox.min.css" type="text/css"/>--}}
-<!-- YTPLAYER CSS -->
-{{--    <link rel="stylesheet" href="css/mb.YTPlayer.min.css" type="text/css"/>--}}
-<!-- FLATICON CSS -->
     <link rel="stylesheet" href="css/flaticon.css" type="text/css"/>
     <!-- BOOTSTRAP VALIDATOR CSS -->
     <link rel="stylesheet" href="css/validator.min.css" type="text/css"/>
@@ -50,7 +45,16 @@
 
         gtag('config', 'G-QD1TJ1SSYL');
     </script>
-    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-214055245-1">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-214055245-1');
+    </script>
 </head>
 <body data-spy="scroll" data-offset="62">
 
