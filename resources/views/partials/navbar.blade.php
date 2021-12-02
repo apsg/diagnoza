@@ -22,8 +22,8 @@
                 <li class="active"><a href="#home">
                         <i class="fa fa-home"></i>
                     </a></li>
-                <li><a href="#about">ADOS-2</a></li>
-                <li><a href="#service">Zespół</a></li>
+                <li><a href="#ados">ADOS-2</a></li>
+                <li><a href="#zespol">Zespół</a></li>
                 <li><a href="#cennik">Cennik</a></li>
                 <li><a href="#proces">Proces</a></li>
                 <li><a href="#kontakt">Kontakt</a></li>

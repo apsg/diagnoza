@@ -1,5 +1,5 @@
 <!-- Team Section Start -->
-<section class="padding-bottom-50" id="team">
+<section class="padding-bottom-50" id="zespol">
     <div class="container">
         <div class="row text-center">
             <div class="col-sm-12">

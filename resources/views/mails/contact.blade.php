@@ -10,12 +10,8 @@ Dla miasta: {{ $city }}
 {{ $email }}
 
 ### Wiadomość:
-{{ $message }}
+{{ nl2br($message) }}
 
-@component('mail::button', ['url' => ''])
-Button Text
-@endcomponent
-
-Thanks,<br>
+<br>
 {{ config('app.name') }}
 @endcomponent

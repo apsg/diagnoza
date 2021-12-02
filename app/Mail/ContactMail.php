@@ -40,6 +40,7 @@ class ContactMail extends Mailable
     public function build()
     {
         return $this->markdown('mails.contact')
+            ->subject('Kontakt Diagnoza ADOS-2')
             ->replyTo($this->email);
     }
 }

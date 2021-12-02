@@ -81,7 +81,7 @@
                                         data-animation-duration="2.5s">Diagnoza <span
                                             class="primary-color">ADOS-2</span></h1>
                                 </div>
-                                <a class="btn btn-default btn-xl stark-animated animated" href="#about"
+                                <a class="btn btn-default btn-xl stark-animated animated" href="#ados"
                                    data-animation="bounceInDown" data-animation-duration="1.5s"
                                    data-animation-delay="1000">
                                     Dowiedz się więcej
@@ -99,7 +99,7 @@
                                             class="primary-color">dorosłych</span>
                                         w kierunku autyzmu</h1>
                                 </div>
-                                <a class="btn btn-default btn-xl stark-animated animated" href="#about"
+                                <a class="btn btn-default btn-xl stark-animated animated" href="#ados"
                                    data-animation="bounceInDown" data-animation-duration="1.5s"
                                    data-animation-delay="1000">
                                     Dowiedz się więcej
@@ -113,7 +113,7 @@
     </header>
     <!-- Theme Header End -->
     <!-- About Section -->
-    <section id="about" class="section-parallax section-typo-white" data-src="images/bg/3.png"
+    <section id="ados" class="section-parallax section-typo-white" data-src="images/bg/3.png"
              data-stellar-background-ratio="0.5">
         <span class="overlay-section-bg primary-section-bg"></span>
         <div class="container">
@@ -242,7 +242,7 @@
     </section>
     <!-- Support Section End -->
     <!-- Service Section Start -->
-    <section class="padding-bottom-50" id="service">
+    <section class="padding-bottom-50">
         <div class="container text-center">
             <div class="row">
                 <div class="col-sm-12">
