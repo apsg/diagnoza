@@ -50,7 +50,11 @@
     </script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-214055245-1');
@@ -128,12 +132,54 @@
                     </div>
                     <a class="btn btn-default btn-xl btn-bg-white" href="#proces">Zobacz jak przebiega proces
                         badania</a>
-                    <a class="btn btn-default btn-xl btn-bg-white margin-lr-50" href="#proces">Czym jest ADOS-2?</a>
+                    <a class="btn btn-default btn-xl btn-bg-white margin-lr-50"
+                       href="#proces"
+                       data-toggle="modal"
+                       data-target="#ados-opis"
+                    >
+                        Czym jest ADOS-2?</a>
                     <!-- THEME DEFAULT BUTTON WITH WHITE BACKGROUND -->
+
+
                 </div>
             </div>
         </div>
     </section>
+    <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog"
+         aria-labelledby="myLargeModalLabel" aria-hidden="true" id="ados-opis">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body text-left">
+                    <p><strong>ADOS 2</strong> - (Autism Diagnosis Observation Schedule), czyli protokół obserwacji do
+                        diagnozy zaburzeń ze spektrum autyzmu, druga wersja. Na świecie ADOS-2 uważany
+                        jest za „złoty standard” diagnozy. Określenie „protokół obserwacji” oznacza, że
+                        osoba prowadząca diagnozę korzysta podczas spotkań ze szczegółowej instrukcji
+                        dotyczącej tego jak powinno przebiegać badanie – jakie zabawy, książki,
+                        ilustracje wykorzystać w przypadku diagnozy dziecka oraz w jaki sposób
+                        poprowadzić rozmowę z osobą dorosłą czy nastolatkiem. Następnie obserwacje
+                        odnoszone są do precyzyjnie określonych kryteriów, by porównać obserwacje z
+                        zachowaniami charakterystycznymi dla zaburzeń ze spektrum autyzmu.</p>
+                    <p>ADOS -2 jest przeznaczony dla dzieci powyżej 12 miesiąca życia, młodzieży oraz
+                        osób dorosłych. W przypadku dzieci kluczowe jest to, by potrafiły one chodzić i
+                        samodzielnie przemieszczać się po pomieszczeniu. Osoba z niepełnosprawnością w
+                        obrębie zmysłów wzroku i słuchu oraz motoryki nie może być diagnozowana z
+                        wykorzystaniem ADOS-2. Narzędzie służy do obserwacji sfer takich jak: interakcje
+                        i komunikacja społeczna oraz powtarzalne i ograniczone wzorce zachowań, czyli
+                        obszary charakterystyczne dla zaburzeń ze spektrum autyzmu.</p>
+                    <p>W procesie diagnostycznym obserwacja z wykorzystaniem ADOS-2 jest tylko jednym ze
+                        sposobów zbierania informacji, równie ważnym jak pozostałe: wywiad, zapoznanie
+                        się z dokumentacją, obserwacja w sytuacji nieustrukturyzowanej. Diagnoza jest
+                        efektem podsumowania wszystkich dostępnym informacji oraz obserwacji dwóch
+                        diagnostek biorących udział w procesie.</p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!-- Who we are -->
     <section>
         <div class="container">
