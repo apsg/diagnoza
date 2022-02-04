@@ -14,6 +14,7 @@ class ContactController extends Controller
             ->send(new ContactMail(
                 $request->input('name'),
                 $request->input('email'),
+                $request->input('phone'),
                 $request->input('message')
             ));
 

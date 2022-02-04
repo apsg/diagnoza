@@ -24,11 +24,15 @@ class ContactMail extends Mailable
     /** @var string */
     public $city;
 
-    public function __construct(string $name, string $email, string $message)
+    /** @var string */
+    public $phone;
+
+    public function __construct(string $name, string $email, string $phone = '', string $message = '')
     {
         $this->name = $name;
         $this->email = $email;
         $this->message = $message;
+        $this->phone = $phone;
         $this->city = CitiesHelper::get('name');
     }
 

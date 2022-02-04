@@ -421,10 +421,17 @@
         <div class="container section-typo-white">
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1 text-center">
-                    <h2 class="inline-content"><span>Gabinet psychoterapii "Wzmocnienie"</span></h2>
-                    <!-- SECTION TITLE -->
-                    <a class="btn btn-default btn-xl btn-bg-white btn-inline" href="https://wzmocnienie.pl"
-                       target="_blank">wzmocnienie.pl</a>
+
+                    <div class="text-center">
+                        <a href="https://wzmocnienie.pl" title="Gabinet Psychoterapii Wzmocnienie">
+                            <img src="{{ asset('/images/logo_biale_bez_tla.svg') }}" height="350"/>
+                        </a>
+                    </div>
+
+                    {{--                    <h2 class="inline-content"><span>Gabinet psychoterapii "Wzmocnienie"</span></h2>--}}
+                    {{--                    <!-- SECTION TITLE -->--}}
+                    {{--                    <a class="btn btn-default btn-xl btn-bg-white btn-inline" href="https://wzmocnienie.pl"--}}
+                    {{--                       target="_blank">wzmocnienie.pl</a>--}}
                 </div>
             </div>
         </div>
@@ -482,7 +489,7 @@
                     <p id="contact-status-msg" class="hide"></p>
                     <form id="contact-form" class="contact-form" action="{{ url('/contact') }}" method="POST">
                         @csrf
-                        <div class="col-md-4 col-md-offset-2 padding-bottom-20">
+                        <div class="col-md-4 padding-bottom-20">
                             <div class="form-group">
                                 <input id="name" class="form-control" name="name" autocomplete="off" placeholder="Imię"
                                        data-bv-field="name" type="text"/>
@@ -495,8 +502,15 @@
                                        data-bv-field="email" type="email">
                             </div>
                         </div>
+                        <div class="col-md-4 padding-bottom-20">
+                            <div class="form-group">
+                                <input id="phone" class="form-control" name="phone" autocomplete="off"
+                                       placeholder="Telefon"
+                                       data-bv-field="phone" type="phone">
+                            </div>
+                        </div>
                         <span class="clearfix"></span>
-                        <div class="contact-message col-md-8 col-md-offset-2">
+                        <div class="contact-message col-md-12">
                             <div class="form-group margin-bottom-0">
                             <textarea id="message" class="form-control textarea" rows="3" name="message"
                                       placeholder="Wiadomość" data-bv-field="message"></textarea>

@@ -9,6 +9,9 @@ Dla miasta: {{ $city }}
 ### E-mail:
 {{ $email }}
 
+### Telefon:
+{{ $phone }}
+
 ### Wiadomość:
 {{ nl2br($message) }}
 
