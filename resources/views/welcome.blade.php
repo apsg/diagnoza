@@ -550,6 +550,8 @@
     </footer>
     <!-- Footer End -->
 
+    Cześć Arek
+
 </div><!-- .main-wrap -->
 
 <!-- JQUERY LIBRARY -->
