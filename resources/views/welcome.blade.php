@@ -549,9 +549,6 @@
         <a href="#" class="back-to-top" id="back-to-top"><i class="fa fa-angle-up"></i></a>
     </footer>
     <!-- Footer End -->
-
-    Cześć Arek
-
 </div><!-- .main-wrap -->
 
 <!-- JQUERY LIBRARY -->
