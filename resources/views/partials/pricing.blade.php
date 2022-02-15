@@ -1,15 +1,9 @@
-<!-- Our Plans Section Start -->
 <section class="padding-bottom-50" id="cennik">
     <div class="container">
         <div class="row text-center">
             <div class="col-sm-12">
                 <div class="section-title">
                     <h2 class="section-title-divider primary-divider">Cennik usług</h2>
-                    <!-- SECTION TITLE -->
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua.
-                    </p>
                 </div>
             </div>
         </div>
@@ -48,7 +42,8 @@
                             <p><strong>Opracowanie</strong> wyników</p>
                             <p>Opinia psychologiczna</p>
                             <p><strong>1h</strong> podsumowania</p>
-                            <p class="text-center"><a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
+                            <p class="text-center"><a class="btn btn-default btn-xl btn-normal"
+                                                      href="#kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>
@@ -64,7 +59,8 @@
                             <h2>konsultacja programu terapeutycznego</h2>
                         </div>
                         <div class="price-content">
-                            <p>Wsparcie w zakresie opracowywania programów terapeutycznych realizowanych przez placówki oświatowe.</p>
+                            <p>Wsparcie w zakresie opracowywania programów terapeutycznych realizowanych przez placówki
+                                oświatowe.</p>
                             <p class="text-center">
                                 <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
                             </p>
