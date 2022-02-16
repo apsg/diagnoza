@@ -530,7 +530,7 @@
     <!-- Map Section Start -->
     <section class="padding-none">
         <!-- Map Styles -> Standard, Aubergine, Silver, Retro, Dark, Aubergine -->
-        <div id="starkGoogleMap" style="width:100%;height:400px;" data-map-style="Silver"></div>
+{{--        <div id="starkGoogleMap" style="width:100%;height:400px;" data-map-style="Silver"></div>--}}
     </section>
     <!-- Map Section End -->
 
