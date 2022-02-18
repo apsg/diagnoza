@@ -68,11 +68,9 @@ jobs:
             cd ${{ secrets.TARGET }}
             ln -s public public_html
             ln -s public public_html
-            composer install
+            composer install --ignore-platform-reqs
             php80 artisan migrate --force
             php80 artisan cache:clear
             php80 artisan view:cache
             php80 artisan config:cache
             php80 artisan storage:link
-
-
