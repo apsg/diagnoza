@@ -15,3 +15,14 @@ mix.js('resources/js/app.js', 'public/js')
     .postCss('resources/css/app.css', 'public/css', [
         //
     ]);
+
+mix.styles([
+    'resources/theme/css/bootstrap.min.css',
+    'resources/theme/css/font-awesome.min.css',
+    'resources/theme/css/owl.carousel.min.css',
+    'resources/theme/css/animate.min.css',
+    'resources/theme/css/flaticon.css',
+    'resources/theme/css/validator.min.css',
+    'resources/theme/colors/dark-green.css',
+    'resources/theme/css/style.css'
+], 'public/css/theme.css');

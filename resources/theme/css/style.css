@@ -45,7 +45,7 @@ body
 	font-size:16px;
 	line-height:26px;
 }
-::-moz-selection { 
+::-moz-selection {
     color: red;
     background: #09b9bb;
 }
@@ -64,7 +64,7 @@ a{
 	outline:none;
 	text-decoration:none;
 	-webkit-transition: all ease 0.5s; -moz-transition: all ease 0.5s; -ms-transition: all ease 0.5s; -o-transition: all ease 0.5s; transition: all ease 0.5s;
-	
+
 }
 a.link-white{
 	color:#fff;
@@ -280,7 +280,7 @@ nav.navbar {
 .navbar-nav.navbar-center {
 	left: 50%;
     position: absolute;
-	
+
 	-webkit-transform:translateX(-50%);
 	-moz-transform:translateX(-50%);
 	-ms-transform:translateX(-50%);
@@ -434,7 +434,7 @@ header {
 }
 .header-slider .item {
 	background-size: cover;
-	background-repeat:no-repeat;	
+	background-repeat:no-repeat;
 }
 .img-before {
 	display:inline-block;
@@ -458,7 +458,7 @@ header {
 }
 .owl-item.active .stark-animated {
 	display:block;
-} 
+}
 .header-content-inner a.btn.btn-default {
     display: inline-block !important;
 }
@@ -484,8 +484,8 @@ header {
 .navbar-brand img {
 	max-height:100%;
 	vertical-align:middle;
-	padding:0;	
-	display:inline-block;	
+	padding:0;
+	display:inline-block;
 	width:auto;
 }
 /* Header/Sliding Part Styles */
@@ -567,7 +567,7 @@ h3.under-line::before {
 section.bottom-border {
 	border-bottom: solid 1px rgba(9, 185, 187, 0.3);
 }
-3section h2.section-title-divider {
+section h2.section-title-divider {
     line-height: 32px;
     padding-bottom: 26px;
 }
@@ -579,8 +579,7 @@ section.bottom-border {
 	background-color:transparent;
 }
 .btn-default, .btn-primary, .btn-success, .btn-info, .btn-warning, .btn-danger {
-    background-color: none;
-	-webkit-border-radius: 25px;
+    -webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
 	border-radius: 25px;
     color: #fff;
@@ -588,10 +587,10 @@ section.bottom-border {
     padding: 14px 30px;
 	border:solid 1px #ffffff;
 	background-color:transparent;
-	
+
 	-webkit-transition: all ease 0.5s; -moz-transition: all ease 0.5s; -ms-transition: all ease 0.5s; -o-transition: all ease 0.5s; transition: all ease 0.5s;
 }
-.btn-default:hover, .btn-default:focus, .btn-default:active, 
+.btn-default:hover, .btn-default:focus, .btn-default:active,
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active,
 .btn-success:hover, .btn-success:focus, .btn-success:active,
 .btn-info:hover, .btn-info:focus, .btn-info:active,
@@ -748,7 +747,7 @@ blockquote::before {
     position: absolute;
     width: 0;
 	left:50%;
-	
+
 	-webkit-transition: all ease 0.5s; -moz-transition: all ease 0.5s; -ms-transition: all ease 0.5s; -o-transition: all ease 0.5s; transition: all ease 0.5s;
 	transform: translateX(-50%);
 }
@@ -1172,11 +1171,11 @@ a.comment::before {
 	-webkit-box-shadow: none;
 	-moz-box-shadow: none;
 	box-shadow: none;
-	
+
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
 	border-radius: 0;
-	
+
 	border: none;
 	border-bottom: solid 2px #ccc;
 }
@@ -1393,7 +1392,7 @@ a.comment::before {
 
 /* Progress Bar Styles */
 .progress {
-	height: 30px;	
+	height: 30px;
 }
 .progress-bar {
 	text-align: left;
@@ -1488,7 +1487,7 @@ a.comment::before {
 	.nav.navbar-nav > li > a {
 		padding: 0 10px;
 	}
-	
+
 	/* Timeline Panel */
 	.timeline li .timeline-panel {
 		width: 44%;
@@ -1511,13 +1510,13 @@ a.comment::before {
 	.pricing-table {
 		margin-top: 0;
 	}
-	
+
 	/* Team Style */
 	.team-image > img{
 		width:100%;
 		height:auto;
 	}
-	
+
 	/* Blog List Styles */
 	.blog-list .blog-image{
 		float: none;
@@ -1527,7 +1526,7 @@ a.comment::before {
 		float: none;
 		width: auto;
 	}
-	
+
 	/* Inline Button style */
 	h2.inline-content{
 		width:100%;
@@ -1535,7 +1534,7 @@ a.comment::before {
 	.btn.btn-inline{
 		margin-top:30px;
 	}
-	
+
 }
 @media screen and (max-width: 767px) {
 	.navbar-header .navbar-brand {
@@ -1581,7 +1580,7 @@ a.comment::before {
 	.navbar-collapse .navbar-nav.navbar-social > li {
 		display:inline-block;
 	}
-	
+
 	/* Timeline Styles */
 	ul.timeline:before {
 		left: 40px;
@@ -1595,7 +1594,7 @@ a.comment::before {
 		top: 16px;
 		left: 16px;
 		margin-left: 0;
-	
+
 	}
 	ul.timeline > li > .tldate {
 		margin: 0;
@@ -1615,7 +1614,7 @@ a.comment::before {
 		left: -14px;
 		right: auto;
 	}
-	
+
 }
 /* ================================================================
  * SPACINGS

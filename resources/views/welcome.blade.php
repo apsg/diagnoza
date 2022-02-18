@@ -7,28 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Responsive one page HTML template">
     <meta name="author" content="Foxywebthemes">
-    <!-- BOOTSTRAP CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css"/>
-    <!-- FONTAWESOME CSS -->
-    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css"/>
-    <!-- OWL CAROUSEL CSS -->
-    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css"/>
-    <!-- ANIMATE CSS -->
-    <link rel="stylesheet" href="css/animate.min.css" type="text/css"/>
-    <link rel="stylesheet" href="css/flaticon.css" type="text/css"/>
-    <!-- BOOTSTRAP VALIDATOR CSS -->
-    <link rel="stylesheet" href="css/validator.min.css" type="text/css"/>
-    <!-- GOOGLE FONTS  -->
+
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300,100,900|Poppins:400,500'
           rel='stylesheet' type='text/css'/>
     <!-- THEME STYLE CSS -->
-    <link rel="stylesheet" href="css/style.css" type="text/css"/>
     <!-- Latest IE rendering engine & Chrome Frame Meta Tags -->
     <!--[if IE]>
     <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
     <![endif]-->
-    <link rel="stylesheet" id="custom-color-panel" href="colors/dark-green.css" type="text/css">
 
+    <link rel="stylesheet" href="{{ asset('css/theme.css') }}" type="text/css"/>
     <link rel="stylesheet" href="{{ asset('/css/app.css') }}" type="text/css">
 
     @meta_tags
@@ -45,23 +33,8 @@
 
         gtag('config', 'G-QD1TJ1SSYL');
     </script>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-214055245-1">
-    </script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-
-        gtag('js', new Date());
-
-        gtag('config', 'UA-214055245-1');
-    </script>
 </head>
 <body data-spy="scroll" data-offset="62">
-
 
 <div class="main-wrap">
 
@@ -530,7 +503,7 @@
     <!-- Map Section Start -->
     <section class="padding-none">
         <!-- Map Styles -> Standard, Aubergine, Silver, Retro, Dark, Aubergine -->
-{{--        <div id="starkGoogleMap" style="width:100%;height:400px;" data-map-style="Silver"></div>--}}
+        {{--        <div id="starkGoogleMap" style="width:100%;height:400px;" data-map-style="Silver"></div>--}}
     </section>
     <!-- Map Section End -->
 
