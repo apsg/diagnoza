@@ -26,7 +26,7 @@
                                 <div class="testimonial-image">
                                     <a href="https://terapia-cbt.pl" target="_blank">
                                         <img alt="MindWorks"
-                                             src="images/logos/mindworks.png"
+                                             src="images/logos/mindworks.webp"
                                              class="img-responsive"
                                              title="Testimonial"/>
                                     </a>

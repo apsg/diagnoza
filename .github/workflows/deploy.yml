@@ -73,4 +73,5 @@ jobs:
             php80 artisan cache:clear
             php80 artisan view:cache
             php80 artisan config:cache
+            php80 artisan route:cache
             php80 artisan storage:link
