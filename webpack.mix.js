@@ -26,3 +26,18 @@ mix.styles([
     'resources/theme/colors/dark-green.css',
     'resources/theme/css/style.css'
 ], 'public/css/theme.css');
+
+mix.scripts([
+    'resources/theme/js/jquery.min.js',
+    'resources/theme/js/bootstrap.min.js',
+    'resources/theme/js/owl.carousel.min.js',
+    'resources/theme/js/jquery.appear.js',
+    'resources/theme/js/jquery.easing.min.js',
+    'resources/theme/js/jquery.stellar.min.js',
+    'resources/theme/js/jquery.counterup.min.js',
+    'resources/theme/js/isotope.pkgd.min.js',
+    'resources/theme/js/lightbox.min.js',
+    'resources/theme/js/jquery.mb.YTPlayer.min.js',
+    'resources/theme/js/validator.min.js',
+    'resources/theme/js/theme.js',
+], 'public/js/theme.js');
