@@ -15,7 +15,8 @@
             <div class="col-md-3 col-md-offset-3 col-sm-6">
                 <div class="team-wrap text-center">
                     <div class="team-image">
-                        <img alt="" src="images/ola.webp" title="Aleksandra Magda" class="img-responsive" height="400"/>
+                        <img alt="" src="images/ola_400.webp" title="Aleksandra Magda" class="img-responsive"
+                             height="400"/>
                     </div>
                     <div class="team-title">
                         <h3>Aleksandra Magda</h3>
@@ -121,7 +122,8 @@
             <div class="col-md-3 col-sm-6">
                 <div class="team-wrap text-center">
                     <div class="team-image">
-                        <img alt="" src="images/oliwia.webp" title="Oliwia Markowska" class="img-responsive" height="400"/>
+                        <img alt="" src="images/oliwia_400.webp" title="Oliwia Markowska" class="img-responsive"
+                             height="400"/>
                     </div>
                     <div class="team-title">
                         <h3>Oliwia Markowska</h3>
