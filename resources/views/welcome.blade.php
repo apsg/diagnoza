@@ -443,7 +443,9 @@
                         </p>
                         <div class="padding-tb-20">
                             <p>
-                                {!! nl2br(\App\CitiesHelper::get('address')) !!}
+                                @foreach(\App\CitiesHelper::get('address') as $address)
+                                    <x-maps-link :address="$address"/>
+                                @endforeach
                             </p>
                         </div>
                     </div>

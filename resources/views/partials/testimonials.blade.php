@@ -26,7 +26,8 @@
                                 <div class="testimonial-image">
                                     <a href="https://terapia-cbt.pl" target="_blank">
                                         <img alt="MindWorks"
-                                             src="images/logos/mindworks.webp"
+
+                                             width="400" src="images/logos/mindworks.png"
                                              class="img-responsive"
                                              title="Testimonial"/>
                                     </a>
@@ -42,7 +43,8 @@
                             <div class="testimonial-title">
                                 <div class="testimonial-image margin-top-50">
                                     <a href="http://rozwijanka.pl" target="_blank">
-                                        <img alt="" src="images/logos/rozwijanka.png" class="img-responsive"
+                                        <img alt=""
+                                             width="400" src="images/logos/rozwijanka.png" class="img-responsive"
                                              title="Testimonial"/>
                                     </a>
                                 </div>
