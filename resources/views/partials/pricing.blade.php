@@ -12,7 +12,7 @@
                 <div class="pricing-table">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>150<br/><span>PLN/h</span></h3>
+                            <h3>180<br/><span>PLN/h</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Konsultacja psychologiczna</h2>
