@@ -53,14 +53,14 @@
                 <div class="pricing-table">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>90<br/><span>PLN/h</span></h3>
+                            <h3>350<br/><span>PLN/h</span></h3>
                         </div>
                         <div class="price-title">
-                            <h2>konsultacja programu terapeutycznego</h2>
+                            <h2>Diagnoza możliwości poznawczych</h2>
                         </div>
                         <div class="price-content">
-                            <p>Wsparcie w zakresie opracowywania programów terapeutycznych realizowanych przez placówki
-                                oświatowe.</p>
+                            <p>Diagnoza możliwości poznawczych z wykorzystaniem Stanford-Binet&nbsp;5. Dla osób w wieku
+                                2-70 lat.</p>
                             <p class="text-center">
                                 <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
                             </p>
