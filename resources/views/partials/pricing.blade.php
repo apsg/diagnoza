@@ -53,7 +53,7 @@
                 <div class="pricing-table">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>350<br/><span>PLN/h</span></h3>
+                            <h3>350<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza możliwości poznawczych</h2>
