@@ -484,6 +484,26 @@
                                        data-bv-field="phone" type="phone">
                             </div>
                         </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label>Kogo dotyczy diagnoza?</label>
+                                <select name="age" class="form-control" required>
+                                    <option>... wybierz</option>
+                                    <option value="dorosly">Diagnoza osoby dorosłej</option>
+                                    <option value="dziecko">Diagnoza dziecka</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label>Czy wywiad wstępny oraz podsumowanie mogą odbywać się w formie zdalnej (on-line)?</label>
+                                <select name="wywiad" class="form-control" required>
+                                    <option>... wybierz</option>
+                                    <option value="tak">Tak</option>
+                                    <option value="nie">Nie</option>
+                                </select>
+                            </div>
+                        </div>
                         <span class="clearfix"></span>
                         <div class="contact-message col-md-12">
                             <div class="form-group margin-bottom-0">

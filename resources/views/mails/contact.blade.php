@@ -15,6 +15,14 @@ Dla miasta: {{ $city }}
 ### Wiadomość:
 {{ nl2br($message) }}
 
+@if($wywiad)
+    Czy wywiad możliwy online? {{ $wywiad }}
+@endif
+
+@if($age)
+    Wiek osoby badanej: {{ $age }}
+@endif
+
 <br>
 {{ config('app.name') }}
 @endcomponent
