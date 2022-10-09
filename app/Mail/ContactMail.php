@@ -27,8 +27,8 @@ class ContactMail extends Mailable
     /** @var string */
     public $phone;
 
-    protected ?string $age;
-    protected ?string $wywiad;
+    public ?string $age;
+    public ?string $wywiad;
 
     public function __construct(
         string $name,
