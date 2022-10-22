@@ -12,21 +12,11 @@ class ContactMail extends Mailable
 {
     use Queueable, SerializesModels;
 
-    /** @var string */
-    public $name;
-
-    /** @var string */
-    public $email;
-
-    /** @var string */
-    public $message;
-
-    /** @var string */
-    public $city;
-
-    /** @var string */
-    public $phone;
-
+    public ?string $name;
+    public ?string $email;
+    public ?string $message;
+    public ?string $city;
+    public ?string $phone;
     public ?string $age;
     public ?string $wywiad;
 
