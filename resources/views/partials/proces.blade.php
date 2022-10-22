@@ -19,7 +19,7 @@
         <div class="row text-center">
             <div class="col-sm-12">
                 <div class="section-title">
-                    <h2 class="section-title-divider primary-divider">Jak wygląda proces badania</h2>
+                    <h2 class="section-title-divider primary-divider">Diagnoza dzieci i młodzieży</h2>
                 </div>
             </div>
         </div>
@@ -180,3 +180,141 @@
     </div>
 </section>
 <!-- Timeline Section End -->
+
+<section class="padding-bottom-50" id="proces">
+    <div class="container">
+
+        <div class="row text-center">
+            <div class="col-sm-12">
+                <div class="section-title">
+                    <h2 class="section-title-divider primary-divider">Diagnoza dorosłych</h2>
+                    <p>Prowadzony przez jedną diagnostkę.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="timeline">
+                    <li>
+                        <div class="tl-circ img-circle">
+                            <i class="fa fa-envelope-o"></i>
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="tl-heading">
+                                <h4>Kontakt</h4>
+                            </div>
+                            <div class="tl-body">
+                                <p>Pozostawienie informacji kontaktowych w formularzu na stronie.</p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="timeline-inverted">
+                        <div class="tl-circ img-circle">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="tl-heading">
+                                <h4>Rozmowa wstępna i umówienie terminu spotkania</h4>
+                            </div>
+                            <div class="tl-body">
+                                <p>Krótki kontakt telefoniczny lub mailowy mający na celu ustalenie celu i formy
+                                    spotkań.</p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="tl-circ img-circle">
+                            <i class="fa fa-comment-o"></i>
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="tl-heading">
+                                <h4>Wywiad</h4>
+                                <p>
+                                    <small class="text-muted">
+                                        <i class="fa fa-clock-o"></i> 2 godziny, zdalnie lub na żywo
+                                    </small>
+                                </p>
+                            </div>
+                            <div class="tl-body">
+                                <p>Wywiad dotyczy bieżących trudności oraz rozwoju człowieka. W pierwszym spotkaniu, poza osobą
+                                    zainteresowaną diagnozą może brać udział bliska osoba – partner/ka, rodzic, rodzeństwo, przyjaciel/łka.
+                                    Obecność trzeciej osoby służy poszerzeniu perspektywy diagnostycznej i możliwości zebrania
+                                    dodatkowych informacji. Jest to forma przydatna, jednak nie jest niezbędna do przeprowadzenia procesu.
+                                    Kluczowym dla nas jest to, by osoba biorąca udział w diagnozie mogła czuć się możliwie bezpiecznie i
+                                    swobodnie. Istnieje możliwość, by bliska osoba dołączyła w trakcie wywiadu, może się także połączyć
+                                    telefonicznie lub w formie wideorozmowy. Jeśli osoba biorąca udział w diagnozie posiada jakieś opinie,
+                                    dokumentację z okresu edukacji przedszkolnej czy szkolnej prosimy o ich dostarczenie, by zebrać
+                                    możliwie dużo danych. Wywiad trwa ok. 2h
+                                </p>
+                                <p>
+                                    Możliwe jest przeprowadzenie wywiadu w formie on-line albo osobiście w Krakowie lub
+                                    Wieliczce.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li class="timeline-inverted">
+                        <div class="tl-circ img-circle"><i class="fa fa-area-chart"></i></div>
+                        <div class="timeline-panel">
+                            <div class="tl-heading">
+                                <h4>ADOS-2</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 50 min</small></p>
+                            </div>
+                            <div class="tl-body">
+                                <p>Spotkanie diagnostyczne z wykorzystaniem półustruktoryzowanego protokołu służącego
+                                    diagnozie zaburzeń ze spektrum autyzmu. Spotkanie trwa ok. 50 min.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+
+                    <li>
+                        <div class="tl-circ img-circle">
+                            <i class="fa fa-hourglass-o"></i>
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="tl-heading">
+                                <h4>Opracowanie wyników i wydanie opinii</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 2 tygodnie</small></p>
+                            </div>
+                            <div class="tl-body">
+                                <p>
+                                    Proces ten trwa około dwóch tygodni. Podsumowujemy wówczas wszystkie zebrane
+                                    informacje, odnosimy się do kryteriów diagnostycznych dla konkretnych trudności
+                                    zawartych w
+                                    <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
+                                    oraz
+                                    <a href="https://pl.wikipedia.org/wiki/Międzynarodowa_Klasyfikacja_Chorób_ICD-10"
+                                       target="_blank">ICD-10/11</a>.
+                                    Na tej podstawie przygotowujemy dokument opisujący
+                                    proces diagnostyczny.
+                                    W przypadku rozpoznania konkretnych trudności uwzględniamy w nim zalecenia do
+                                    dalszej pracy.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="timeline-inverted">
+                        <div class="tl-circ img-circle"><i class="fa fa-heart-o"></i></div>
+                        <div class="timeline-panel">
+                            <div class="tl-heading">
+                                <h4>Spotkanie podsumowujące</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 1-2 h</small></p>
+                            </div>
+                            <div class="tl-body">
+                                <p>W trakcie spotkania diagnostka stara odpowiedzieć się na pytania, które
+                                    zostały zadane w trakcie pierwszego spotkania, podsumowuje proces diagnostyczny, przekazuje zalecenia
+                                    oraz pisemną opinię, jeśli ustalono, że zostanie przygotowana.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
