@@ -38,3 +38,12 @@
 .text-bold {
     font-weight: 700;
 }
+
+.js-cookie-consent {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background: #1b6d85;
+    text-align: center;
+}
