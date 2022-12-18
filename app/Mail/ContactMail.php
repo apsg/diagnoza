@@ -23,9 +23,9 @@ class ContactMail extends Mailable
     public function __construct(
         string $name,
         string $email,
-        string $phone = '',
+        ?string $phone = '',
         string $message = '',
-        string $age = null,
+        ?string $age = null,
         string $wywiad = null
     ) {
         $this->name = $name;
