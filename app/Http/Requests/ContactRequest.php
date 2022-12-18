@@ -11,9 +11,18 @@ class ContactRequest extends FormRequest
             'name'    => 'required|string',
             'email'   => 'required|email',
             'message' => 'required|string',
-            'phone'   => 'sometimes|string',
+            'phone'   => 'nullable|string',
 //            'age'     => 'required|in:dorosly,dziecko',
 //            'wywiad'  => 'required|in:tak,nie',
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'name.required'    => 'Proszę podać imię',
+            'email.*'          => 'Proszę podać prawidłowy adres email',
+            'message.required' => 'Brak wiadomości. W czym możemy Ci pomóc?',
         ];
     }
 }

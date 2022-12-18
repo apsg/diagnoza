@@ -36,7 +36,7 @@
 </head>
 <body data-spy="scroll" data-offset="62">
 
-<div class="main-wrap">
+<div class="main-wrap" id="app">
 
 @include('partials.navbar')
 
@@ -444,7 +444,7 @@
 </div><!-- .main-wrap -->
 
 <script src="{{ asset('js/theme.js') }}"></script>
-{{--<script src="{{ asset('/js/app.js') }}"></script>--}}
+<script src="{{ asset('/js/app.js') }}"></script>
 @include('cookie-consent::index')
 
 </body>
