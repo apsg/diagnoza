@@ -415,7 +415,7 @@
 
 @include('partials.proces')
 
-@include('partials.testimonials')
+{{--@include('partials.testimonials')--}}
 
 @include('partials.contact')
 
