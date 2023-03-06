@@ -6,27 +6,25 @@ return [
     /*
      * Meta title section
      */
-    'title'       => [
-        'default'    => env('APP_NAME'),
-        'separator'  => '-',
+    'title' => [
+        'default' => env('APP_NAME'),
+        'separator' => '-',
         'max_length' => 255,
     ],
-
 
     /*
      * Meta description section
      */
     'description' => [
-        'default'    => null,
+        'default' => null,
         'max_length' => 255,
     ],
-
 
     /*
      * Meta keywords section
      */
-    'keywords'    => [
-        'default'    => [
+    'keywords' => [
+        'default' => [
             'autyzm',
             'diagnoza',
             'Kraków',
@@ -44,12 +42,12 @@ return [
      *
      * Packages, that should be included everywhere
      */
-    'packages'    => [
+    'packages' => [
         // 'jquery', 'bootstrap', ...
     ],
 
-    'charset'    => 'utf-8',
-    'robots'     => null,
-    'viewport'   => Viewport::RESPONSIVE,
+    'charset' => 'utf-8',
+    'robots' => null,
+    'viewport' => Viewport::RESPONSIVE,
     'csrf_token' => true,
 ];

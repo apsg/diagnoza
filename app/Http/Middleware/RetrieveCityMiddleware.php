@@ -1,4 +1,5 @@
 <?php
+
 namespace App\Http\Middleware;
 
 use App\CitiesHelper;
@@ -16,7 +17,7 @@ class RetrieveCityMiddleware
         return $next($request);
     }
 
-    protected function retrieveCity(Request $request) : string
+    protected function retrieveCity(Request $request): string
     {
         $city = $request->route('city');
         if ($city === null) {
@@ -30,10 +31,10 @@ class RetrieveCityMiddleware
         return config('cities.default');
     }
 
-    protected function extractCityFromUrl(string $url) : string
+    protected function extractCityFromUrl(string $url): string
     {
         $matches = [];
-        preg_match('/https?:\/\/(\w*)\.?' . config('app.domain') . '/', $url, $matches);
+        preg_match('/https?:\/\/(\w*)\.?'.config('app.domain').'/', $url, $matches);
 
         return Arr::get($matches, 1, '');
     }

@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Route;
 Route::view('/', 'welcome');
 Route::post('contact', [ContactController::class, 'send']);
 
-Route::domain('{city}' . config('app.domain'))->group(function () {
+Route::domain('{city}'.config('app.domain'))->group(function () {
     Route::get('/', function ($city) {
         return view('welcome')->with(compact('city'));
     });
