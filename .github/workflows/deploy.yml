@@ -69,9 +69,9 @@ jobs:
             ln -s public public_html
             ln -s public public_html
             composer install --ignore-platform-reqs
-            php80 artisan migrate --force
-            php80 artisan cache:clear
-            php80 artisan view:cache
-            php80 artisan config:cache
-            php80 artisan route:cache
-            php80 artisan storage:link
+            php82 artisan migrate --force
+            php82 artisan cache:clear
+            php82 artisan view:cache
+            php82 artisan config:cache
+            php82 artisan route:cache
+            php82 artisan storage:link

@@ -7,8 +7,8 @@ return [
      * Meta title section
      */
     'title' => [
-        'default' => env('APP_NAME'),
-        'separator' => '-',
+        'default'    => env('APP_NAME'),
+        'separator'  => '-',
         'max_length' => 255,
     ],
 
@@ -16,7 +16,7 @@ return [
      * Meta description section
      */
     'description' => [
-        'default' => null,
+        'default'    => null,
         'max_length' => 255,
     ],
 
@@ -46,8 +46,8 @@ return [
         // 'jquery', 'bootstrap', ...
     ],
 
-    'charset' => 'utf-8',
-    'robots' => null,
-    'viewport' => Viewport::RESPONSIVE,
+    'charset'    => 'utf-8',
+    'robots'     => null,
+    'viewport'   => Viewport::RESPONSIVE,
     'csrf_token' => true,
 ];

@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Http\Middleware;
 
 use App\CitiesHelper;
@@ -34,7 +33,7 @@ class RetrieveCityMiddleware
     protected function extractCityFromUrl(string $url): string
     {
         $matches = [];
-        preg_match('/https?:\/\/(\w*)\.?'.config('app.domain').'/', $url, $matches);
+        preg_match('/https?:\/\/(\w*)\.?' . config('app.domain') . '/', $url, $matches);
 
         return Arr::get($matches, 1, '');
     }

@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Providers;
 
 use Butschster\Head\Contracts\MetaTags\MetaInterface;

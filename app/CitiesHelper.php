@@ -1,5 +1,4 @@
 <?php
-
 namespace App;
 
 class CitiesHelper
@@ -8,7 +7,7 @@ class CitiesHelper
     {
         $city = session()->get('city', 'krakow');
 
-        return config('cities.'.$city.'.'.$key);
+        return config('cities.' . $city . '.' . $key);
     }
 
     public static function cities(): array
