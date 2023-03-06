@@ -95,8 +95,8 @@
                         <div class="timeline-panel">
                             <div class="tl-heading">
                                 <h4>Dwa spotkania diagnostyczne</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 2 x 1.5h / 2
-                                        terapeutki</small></p>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 2 x 50min / 2
+                                        diagnostki</small></p>
                             </div>
                             <div class="tl-body">
                                 <p>
@@ -146,7 +146,7 @@
                         <div class="timeline-panel">
                             <div class="tl-heading">
                                 <h4>Podsumowanie i zalecenia</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 1-2 h</small></p>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 1 h</small></p>
                             </div>
                             <div class="tl-body">
                                 <p>
@@ -303,7 +303,7 @@
                         <div class="timeline-panel">
                             <div class="tl-heading">
                                 <h4>Spotkanie podsumowujące</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 1-2 h</small></p>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 1 h</small></p>
                             </div>
                             <div class="tl-body">
                                 <p>W trakcie spotkania diagnostka stara odpowiedzieć się na pytania, które

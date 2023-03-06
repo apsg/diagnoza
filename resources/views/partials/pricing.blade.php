@@ -37,11 +37,11 @@
                             <h2>Diagnoza ADOS-2 dzieci i młodzieży</h2>
                         </div>
                         <div class="price-content">
-                            <p><strong>2h</strong> wstępnego wywiadu</p>
-                            <p><strong>3h</strong> badania przez 2 terapeutki</p>
+                            <p>Wstępny wywiad</p>
+                            <p><strong>2</strong> obserwacje dziecka</p>
                             <p><strong>Opracowanie</strong> wyników</p>
                             <p>Opinia psychologiczna</p>
-                            <p><strong>1h</strong> podsumowania</p>
+                            <p>Podsumowanie</p>
                             <p class="text-center"><a class="btn btn-default btn-xl btn-normal"
                                                       href="#kontakt">Kontakt</a>
                             </p>
@@ -59,11 +59,11 @@
                             <h2>Diagnoza ADOS-2 osoby dorosłej</h2>
                         </div>
                         <div class="price-content">
-                            <p><strong>2h</strong> wstępnego wywiadu</p>
-                            <p><strong>1h</strong> badania ADOS-2</p>
+                            <p>Wstępny wywiad</p>
+                            <p>Badanie ADOS-2</p>
                             <p><strong>Opracowanie</strong> wyników</p>
                             <p>Opinia psychologiczna</p>
-                            <p><strong>1h</strong> podsumowania</p>
+                            <p>Podsumowanie</p>
                             <p class="text-center"><a class="btn btn-default btn-xl btn-normal"
                                                       href="#kontakt">Kontakt</a>
                             </p>
