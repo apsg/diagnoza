@@ -7,8 +7,7 @@ return [
         'name'    => 'Kraków',
         'msc'     => 'Krakowie',
         'address' => [
-            'ul. E. Wasilewskiego 20/10, Kraków',
-            'ul. Słowackiego 49, Wieliczka',
+            'Rynek Dębnicki 10/1, 30-319 Kraków',
         ],
     ],
 
