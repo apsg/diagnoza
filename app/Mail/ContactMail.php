@@ -25,13 +25,16 @@ class ContactMail extends Mailable
 
     public ?string $wywiad;
 
+    private ?string $pronoun;
+
     public function __construct(
         string $name,
         string $email,
         ?string $phone = '',
         string $message = '',
         ?string $age = null,
-        string $wywiad = null
+        string $wywiad = null,
+        string $pronoun = ''
     ) {
         $this->name = $name;
         $this->email = $email;
@@ -40,6 +43,7 @@ class ContactMail extends Mailable
         $this->city = CitiesHelper::get('name');
         $this->age = $age;
         $this->wywiad = $wywiad;
+        $this->pronoun = $pronoun;
     }
 
     /**

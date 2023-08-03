@@ -23,6 +23,11 @@ Dla miasta: {{ $city }}
     Wiek osoby badanej: {{ $age }}
 @endif
 
+@if($pronoun)
+    Zaimki: {{ $pronoun }}
+@endif
+
+
 <br>
 {{ config('app.name') }}
 @endcomponent

@@ -52,7 +52,7 @@
                            v-model="form.phone">
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <div class="form-group">
                     <label>Kogo dotyczy diagnoza?</label>
                     <select
@@ -67,7 +67,7 @@
                     </select>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-4">
                 <div class="form-group">
                     <label>Czy wywiad wstępny oraz podsumowanie mogą odbywać się w formie zdalnej
                         (on-line)?</label>
@@ -80,6 +80,22 @@
                         <option>... wybierz</option>
                         <option value="tak">Tak</option>
                         <option value="nie">Nie</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label>Jakich zaimków używać w komunikacji?</label>
+                    <select
+                        name="zaimki"
+                        class="form-control"
+                        required
+                        v-model="form.pronoun"
+                    >
+                        <option>... wybierz</option>
+                        <option value="ona">ona/jej</option>
+                        <option value="on">on/jego</option>
+                        <option value="inne">inne (napisz w treści)</option>
                     </select>
                 </div>
             </div>
