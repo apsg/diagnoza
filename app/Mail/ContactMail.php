@@ -25,7 +25,7 @@ class ContactMail extends Mailable
 
     public ?string $wywiad;
 
-    private ?string $pronoun;
+    public ?string $pronoun;
 
     public function __construct(
         string $name,
