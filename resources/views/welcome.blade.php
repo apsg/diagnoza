@@ -335,7 +335,7 @@
 								<i class="flaticon-user"></i>
 								</span>
                         <h3 class="counter" data-counter="791">
-                            791
+                            975
                         </h3>
                         <span class="counter-text">
 								Wykonanych diagnoz

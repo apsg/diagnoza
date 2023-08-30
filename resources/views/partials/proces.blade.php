@@ -82,10 +82,6 @@
                                     udostępnienie filmów prezentujących charakterystyczne aktywności młodego człowieka,
                                     w swobodnym dla niego środowisku.
                                 </p>
-                                <p>
-                                    Możliwe jest przeprowadzenie wywiadu w formie on-line albo osobiście w Krakowie lub
-                                    Wieliczce.
-                                </p>
                             </div>
                         </div>
                     </li>
@@ -196,7 +192,7 @@
         <div class="row">
             <div class="col-md-12">
                 <ul class="timeline">
-                    <li>
+                    <li class="timeline-inverted">
                         <div class="tl-circ img-circle">
                             <i class="fa fa-envelope-o"></i>
                         </div>
@@ -210,7 +206,7 @@
                         </div>
                     </li>
 
-                    <li class="timeline-inverted">
+                    <li>
                         <div class="tl-circ img-circle">
                             <i class="fa fa-phone"></i>
                         </div>
@@ -224,7 +220,29 @@
                             </div>
                         </div>
                     </li>
-
+                    <li class="timeline-inverted">
+                        <div class="tl-circ img-circle">
+                            <i class="fa fa-comment-o"></i>
+                        </div>
+                        <div class="timeline-panel">
+                            <div class="tl-heading">
+                                <h4>Konsultacja dot. bieżącego funkcjonowania</h4>
+                                <p>
+                                    <small class="text-muted">
+                                        <i class="fa fa-clock-o"></i> ok. 50 - 60 minut zdalnie lub na żywo
+                                    </small>
+                                </p>
+                            </div>
+                            <div class="tl-body">
+                                <p>Pierwsze
+                                    spotkanie mające na celu poznanie człowieka, jego potrzeb a także sposobu
+                                    codziennego funkcjonowania
+                                    w różnych sferach (społecznej, zawodowej, rodzinnej) zarówno pod kątem zasobów jak i
+                                    wyzwań.
+                                </p>
+                            </div>
+                        </div>
+                    </li>
                     <li>
                         <div class="tl-circ img-circle">
                             <i class="fa fa-comment-o"></i>
@@ -239,19 +257,23 @@
                                 </p>
                             </div>
                             <div class="tl-body">
-                                <p>Wywiad dotyczy bieżących trudności oraz rozwoju człowieka. W pierwszym spotkaniu, poza osobą
-                                    zainteresowaną diagnozą może brać udział bliska osoba – partner/ka, rodzic, rodzeństwo, przyjaciel/łka.
-                                    Obecność trzeciej osoby służy poszerzeniu perspektywy diagnostycznej i możliwości zebrania
-                                    dodatkowych informacji. Jest to forma przydatna, jednak nie jest niezbędna do przeprowadzenia procesu.
-                                    Kluczowym dla nas jest to, by osoba biorąca udział w diagnozie mogła czuć się możliwie bezpiecznie i
-                                    swobodnie. Istnieje możliwość, by bliska osoba dołączyła w trakcie wywiadu, może się także połączyć
-                                    telefonicznie lub w formie wideorozmowy. Jeśli osoba biorąca udział w diagnozie posiada jakieś opinie,
-                                    dokumentację z okresu edukacji przedszkolnej czy szkolnej prosimy o ich dostarczenie, by zebrać
+                                <p>Wywiad dotyczy bieżących trudności oraz rozwoju człowieka. W pierwszym spotkaniu,
+                                    poza osobą
+                                    zainteresowaną diagnozą może brać udział bliska osoba – partner/ka, rodzic,
+                                    rodzeństwo, przyjaciel/łka.
+                                    Obecność trzeciej osoby służy poszerzeniu perspektywy diagnostycznej i możliwości
+                                    zebrania
+                                    dodatkowych informacji. Jest to forma przydatna, jednak nie jest niezbędna do
+                                    przeprowadzenia procesu.
+                                    Kluczowym dla nas jest to, by osoba biorąca udział w diagnozie mogła czuć się
+                                    możliwie bezpiecznie i
+                                    swobodnie. Istnieje możliwość, by bliska osoba dołączyła w trakcie wywiadu, może się
+                                    także połączyć
+                                    telefonicznie lub w formie wideorozmowy. Jeśli osoba biorąca udział w diagnozie
+                                    posiada jakieś opinie,
+                                    dokumentację z okresu edukacji przedszkolnej czy szkolnej prosimy o ich
+                                    dostarczenie, by zebrać
                                     możliwie dużo danych. Wywiad trwa ok. 2h
-                                </p>
-                                <p>
-                                    Możliwe jest przeprowadzenie wywiadu w formie on-line albo osobiście w Krakowie lub
-                                    Wieliczce.
                                 </p>
                             </div>
                         </div>
@@ -289,11 +311,14 @@
                                     <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
                                     oraz
                                     <a href="https://pl.wikipedia.org/wiki/Międzynarodowa_Klasyfikacja_Chorób_ICD-10"
-                                       target="_blank">ICD-10/11</a>.
-                                    Na tej podstawie przygotowujemy dokument opisujący
-                                    proces diagnostyczny.
-                                    W przypadku rozpoznania konkretnych trudności uwzględniamy w nim zalecenia do
-                                    dalszej pracy.
+                                            target="_blank">ICD-10/11</a>.
+                                    Na tej podstawie przygotowujemy dokument podsumowujący wnioski z
+                                    procesu diagnostycznego (ok. 1 str A4). W przypadku rozpoznania konkretnych
+                                    trudności uwzględniamy w nim zalecenia do dalszej pracy.</p>
+                                <p>
+                                    Istnieje możliwość przygotowania rozbudowanej opinii opisującej cały proces
+                                    terapeutyczny, np. na potrzeby lekarza psychiatry czy zespołu leczącego (ok. 6-7
+                                    stron A4).
                                 </p>
                             </div>
                         </div>
@@ -307,7 +332,8 @@
                             </div>
                             <div class="tl-body">
                                 <p>W trakcie spotkania diagnostka stara odpowiedzieć się na pytania, które
-                                    zostały zadane w trakcie pierwszego spotkania, podsumowuje proces diagnostyczny, przekazuje zalecenia
+                                    zostały zadane w trakcie pierwszego spotkania, podsumowuje proces diagnostyczny,
+                                    przekazuje zalecenia
                                     oraz pisemną opinię, jeśli ustalono, że zostanie przygotowana.
                                 </p>
                             </div>
