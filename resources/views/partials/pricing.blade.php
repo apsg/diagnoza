@@ -97,13 +97,13 @@
                 <div class="pricing-table">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>850<br/><span>PLN</span></h3>
+                            <h3>1050<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>diagnoza ADHD osób dorosłych</h2>
                         </div>
                         <div class="price-content">
-                            <p>4 spotkania po ok. 60 min</p>
+                            <p>5 spotkania po ok. 60 min</p>
                             <p>Wywiad dotyczący objawów w dorosłości i dzieciństwie</p>
                             <p>Wywiad dotyczący ich wpływu na funkcjonowanie</p>
                             <p>Zapoznanie się z dostarczoną dokumentacją i/lub informacjami od bliskiej osoby</p>
