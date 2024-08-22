@@ -96,16 +96,8 @@
                             </div>
                             <div class="tl-body">
                                 <p>
-                                    W każdy spotkaniu biorą udział dwie diagnostki – jedna osoba pozostaje w relacji z
-                                    osobą biorącą udział w procesie diagnostycznym, druga zaś pełni funkcję
-                                    obserwatorki. Na jednym ze spotkań przeprowadzona zostaje diagnoza z wykorzystaniem
-                                    ADOS-2, drugie zaś jest mniej ustrukturyzowane, ma na celu potwierdzenie wstępnych
-                                    hipotez i obserwacji, a także poszerzenie ich o nieco inny kontekst sytuacyjny. W
-                                    wyjątkowych sytuacjach, (np. dużych wątpliwości diagnostycznych) proponujemy
-                                    umówienie dodatkowego spotkania lub (w przypadku dzieci) pytamy o możliwość
-                                    obserwacji w naturalnym środowisku – szkole, przedszkolu, żłobku. Czasem także
-                                    prosimy osoby dorosłe o powrót do etapu wywiadu, by wyjaśnić nieścisłości, które
-                                    uwidaczniają się podczas kolejnych spotkań.
+                                   Na jednym ze spotkań przeprowadzona zostaje diagnoza z wykorzystaniem ADOS-2 - w tym spotkaniu biorą udział dwie diagnostki – jedna osoba pozostaje w relacji z osobą biorącą udział w procesie diagnostycznym, druga zaś pełni funkcję obserwatorki. 
+                                    Drugie zaś jest mniej ustrukturyzowane, ma na celu potwierdzenie wstępnych hipotez i obserwacji, a także poszerzenie ich o nieco inny kontekst sytuacyjny. W wyjątkowych sytuacjach, (np. dużych wątpliwości diagnostycznych) proponujemy umówienie dodatkowego spotkania lub (w przypadku dzieci) pytamy o możliwość obserwacji w naturalnym środowisku – szkole, przedszkolu, żłobku. Czasem także prosimy osoby dorosłe o powrót do etapu wywiadu, by wyjaśnić nieścisłości, które uwidaczniają się podczas kolejnych spotkań.
                                 </p>
                             </div>
                         </div>
