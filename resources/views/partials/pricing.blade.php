@@ -31,7 +31,7 @@
                 <div class="pricing-table featured">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>1300<br/><span>PLN</span></h3>
+                            <h3>1400<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza ADOS-2 dzieci i młodzieży</h2>
@@ -53,7 +53,7 @@
                 <div class="pricing-table featured">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>1050<br/><span>PLN</span></h3>
+                            <h3>1250<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza ADOS-2 osoby dorosłej</h2>
@@ -63,7 +63,7 @@
                             <p>Wywiad rozwojowy</p>
                             <p>Badanie ADOS-2</p>
                             <p><strong>Opracowanie</strong> wyników</p>
-                            <p>Podsumowanie i przekazanie krótkiej opinii z wnioskami diagnostycznymi</p>
+                            <p>Podsumowanie i przekazanie opinii z wnioskami diagnostycznymi</p>
                             <p class="text-center"><a class="btn btn-default btn-xl btn-normal"
                                                       href="#kontakt">Kontakt</a>
                             </p>
@@ -75,7 +75,7 @@
                 <div class="pricing-table">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>350<br/><span>PLN</span></h3>
+                            <h3>450<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza możliwości poznawczych</h2>
@@ -97,7 +97,7 @@
                 <div class="pricing-table">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>1050<br/><span>PLN</span></h3>
+                            <h3>1250<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>diagnoza ADHD osób dorosłych</h2>
@@ -109,26 +109,6 @@
                             <p>Zapoznanie się z dostarczoną dokumentacją i/lub informacjami od bliskiej osoby</p>
                             <p>Opracowanie wniosków</p>
                             <p>Podsumowanie</p>
-                            <p class="text-center">
-                                <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 animated" data-animation="fadeInUp" data-animation-delay="0">
-                <div class="pricing-table">
-                    <div class="price-main">
-                        <div class="price-amount">
-                            <h3>200<br/><span>PLN</span></h3>
-                        </div>
-                        <div class="price-title">
-                            <h2>Pisemna opinia psychologiczna</h2>
-                        </div>
-                        <div class="price-content">
-                            <p>dot. przebiegu procesu diagnostycznego ADHD/spektrum autyzmu u osoby dorosłej</p>
-                            <p>stanowi szczegółowy opis informacji istotnych z perspektywy diagnostycznej</p>
-                            <p>ok. 6-7 stron</p>
                             <p class="text-center">
                                 <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
                             </p>
