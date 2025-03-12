@@ -12,9 +12,6 @@
             <a class="navbar-brand  text-white text-bold" href="#">
                 Diagnoza Autyzmu
             </a>
-{{--            <a class="navbar-brand sticky-logo text-white text-bold" href="#">--}}
-{{--                Diagnoza Autyzmu--}}
-{{--            </a>--}}
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -23,9 +20,11 @@
                         <i class="fa fa-home"></i>
                     </a></li>
                 <li><a href="#ados">ADOS-2</a></li>
+{{--                <li><a href="#moxo">MOXO</a></li>--}}
                 <li><a href="#zespol">Zespół</a></li>
                 <li><a href="#cennik">Cennik</a></li>
-                <li><a href="#proces">Proces</a></li>
+                <li><a href="#proces">Diagnoza ASD</a></li>
+{{--                <li><a href="#proces">Diagnoza ADHD</a></li>--}}
                 <li><a href="#kontakt">Kontakt</a></li>
             </ul>
         </div>

@@ -117,6 +117,30 @@
                 </div>
             </div>
         </div>
+        <div class="row text-center">
+            <div class="col-md-3"></div>
+            <div class="col-md-3 animated" data-animation="fadeInUp" data-animation-delay="0">
+                <div class="pricing-table">
+                    <div class="price-main">
+                        <div class="price-amount">
+                            <h3>420<br/><span>PLN</span></h3>
+                        </div>
+                        <div class="price-title">
+                            <h2>Diagnoza MOXO</h2>
+                        </div>
+                        <div class="price-content">
+                            <p>1 spotkanie ok 50 min.</p>
+                            <p>Możliwość badania online.</p>
+                            <p>Badanie i omówienie wyników.</p>
+                            <p>Pisemne podsumowanie.</p>
+                            <p class="text-center">
+                                <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <!-- Our Plans Section End -->
