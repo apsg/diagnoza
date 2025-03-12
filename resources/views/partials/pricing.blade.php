@@ -116,9 +116,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row text-center">
-            <div class="col-md-3"></div>
             <div class="col-md-3 animated" data-animation="fadeInUp" data-animation-delay="0">
                 <div class="pricing-table">
                     <div class="price-main">
@@ -130,9 +127,9 @@
                         </div>
                         <div class="price-content">
                             <p>1 spotkanie ok 50 min.</p>
-                            <p>Możliwość badania online.</p>
-                            <p>Badanie i omówienie wyników.</p>
-                            <p>Pisemne podsumowanie.</p>
+                            <p>Możliwość badania online</p>
+                            <p>Badanie i omówienie wyników</p>
+                            <p>Pisemne podsumowanie</p>
                             <p class="text-center">
                                 <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
                             </p>
