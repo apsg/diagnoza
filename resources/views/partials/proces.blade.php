@@ -96,8 +96,16 @@
                             </div>
                             <div class="tl-body">
                                 <p>
-                                   Na jednym ze spotkań przeprowadzona zostaje diagnoza z wykorzystaniem ADOS-2 - w tym spotkaniu biorą udział dwie diagnostki – jedna osoba pozostaje w relacji z osobą biorącą udział w procesie diagnostycznym, druga zaś pełni funkcję obserwatorki. 
-                                    Drugie zaś jest mniej ustrukturyzowane, ma na celu potwierdzenie wstępnych hipotez i obserwacji, a także poszerzenie ich o nieco inny kontekst sytuacyjny. W wyjątkowych sytuacjach, (np. dużych wątpliwości diagnostycznych) proponujemy umówienie dodatkowego spotkania lub (w przypadku dzieci) pytamy o możliwość obserwacji w naturalnym środowisku – szkole, przedszkolu, żłobku. Czasem także prosimy osoby dorosłe o powrót do etapu wywiadu, by wyjaśnić nieścisłości, które uwidaczniają się podczas kolejnych spotkań.
+                                    Na jednym ze spotkań przeprowadzona zostaje diagnoza z wykorzystaniem ADOS-2 - w tym
+                                    spotkaniu biorą udział dwie diagnostki – jedna osoba pozostaje w relacji z osobą
+                                    biorącą udział w procesie diagnostycznym, druga zaś pełni funkcję obserwatorki.
+                                    Drugie zaś jest mniej ustrukturyzowane, ma na celu potwierdzenie wstępnych hipotez i
+                                    obserwacji, a także poszerzenie ich o nieco inny kontekst sytuacyjny. W wyjątkowych
+                                    sytuacjach, (np. dużych wątpliwości diagnostycznych) proponujemy umówienie
+                                    dodatkowego spotkania lub (w przypadku dzieci) pytamy o możliwość obserwacji w
+                                    naturalnym środowisku – szkole, przedszkolu, żłobku. Czasem także prosimy osoby
+                                    dorosłe o powrót do etapu wywiadu, by wyjaśnić nieścisłości, które uwidaczniają się
+                                    podczas kolejnych spotkań.
                                 </p>
                             </div>
                         </div>
@@ -142,6 +150,8 @@
                                     postępowania diagnostycznego oraz zalecenia do dalszej pracy, jeśli to konieczne.
                                     Staramy się wówczas udzielić wsparcia w zakresie możliwych dalszych działań.
                                 </p>
+                                <p>W przypadku diagnozy starszych nastolatków czasem zalecane jest dodatkowe spotkanie
+                                    podsumowujące dla młodego człowieka (dodatkowy koszt 200 zł).</p>
                             </div>
                         </div>
                     </li>
@@ -303,7 +313,7 @@
                                     <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
                                     oraz
                                     <a href="https://pl.wikipedia.org/wiki/Międzynarodowa_Klasyfikacja_Chorób_ICD-10"
-                                            target="_blank">ICD-10/11</a>.
+                                       target="_blank">ICD-10/11</a>.
                                     Na tej podstawie przygotowujemy dokument podsumowujący wnioski z
                                     procesu diagnostycznego (ok. 1 str A4). W przypadku rozpoznania konkretnych
                                     trudności uwzględniamy w nim zalecenia do dalszej pracy.</p>

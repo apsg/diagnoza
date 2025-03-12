@@ -75,7 +75,7 @@
                 <div class="pricing-table">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>450<br/><span>PLN</span></h3>
+                            <h3>520<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza możliwości poznawczych</h2>
@@ -83,6 +83,8 @@
                         <div class="price-content">
                             <p>Diagnoza możliwości poznawczych z wykorzystaniem Stanford-Binet&nbsp;5. Dla osób w wieku
                                 2-70 lat.</p>
+                            <p>Jedno spotkanie ok 90-120 min.</p>
+                            <p>* Jeśli badanie wymaga więcej niż jednego spotkania, to koszt kolejnego wynosi 150 zł</p>
                             <p class="text-center">
                                 <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
                             </p>
