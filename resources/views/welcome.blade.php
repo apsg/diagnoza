@@ -334,8 +334,8 @@
 								<span class="counter-icon">
 								<i class="flaticon-user"></i>
 								</span>
-                        <h3 class="counter" data-counter="791">
-                            975
+                        <h3 class="counter" data-counter="972">
+                            972
                         </h3>
                         <span class="counter-text">
 								Wykonanych diagnoz
@@ -347,8 +347,8 @@
 								<span class="counter-icon">
 								<i class="flaticon-clock"></i>
 								</span>
-                        <h3 class="counter" data-counter="211">
-                            211
+                        <h3 class="counter" data-counter="315">
+                            315
                         </h3>
                         <span class="counter-text">
                             Godzin przeprowadzonych szkoleń
@@ -373,8 +373,8 @@
 								<span class="counter-icon">
 								<i class="flaticon-pencil"></i>
 								</span>
-                        <h3 class="counter" data-counter="48">
-                            48
+                        <h3 class="counter" data-counter="68">
+                            68
                         </h3>
                         <span class="counter-text">
                             Odbytych szkoleń specjalistycznych
