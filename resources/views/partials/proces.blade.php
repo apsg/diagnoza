@@ -179,7 +179,7 @@
 </section>
 <!-- Timeline Section End -->
 
-<section class="padding-bottom-50" id="proces">
+<section class="padding-bottom-50" id="proces-dorosli">
     <div class="container">
 
         <div class="row text-center">
