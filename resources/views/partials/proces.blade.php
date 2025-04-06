@@ -71,16 +71,10 @@
                             </div>
                             <div class="tl-body">
                                 <p>
-                                    Spotkanie trwające około 2 godzin. W przypadku diagnozy dzieci i nastolatków odbywa
-                                    się ono pod nieobecność młodego człowieka. W procesie diagnozy osób dorosłych na tym
-                                    etapie ważne jest spotkanie z członkiem rodziny, który ma informacje na temat
-                                    rozwoju. Jeśli jest to niemożliwe ważne jest spotkanie z osobą, z którą osoba
-                                    chcąca wziąć udział w diagnozie pozostaje w bliskiej relacji. W spotkaniu biorą
-                                    wówczas udział obie osoby. Na tym etapie prosimy także o dostarczenie opinii z
-                                    placówek oświatowych do których uczęszczają dzieci, w przypadku osób dorosłych mogą
-                                    być to oceny opisowe ze szkoły lub inne opinie pisemne. Jeśli to możliwe prosimy o
-                                    udostępnienie filmów prezentujących charakterystyczne aktywności młodego człowieka,
-                                    w swobodnym dla niego środowisku.
+                                    Spotkanie z rodzicami/opiekunami, odbywa się ono pod nieobecność młodego człowieka.
+                                    Pytania dotyczą rozwoju dziecka od okresu niemowlęcego do aktualnego wieku, ze
+                                    szczególnym zwróceniem uwagi na rozwój relacji rówieśniczych, zainteresowań,
+                                    elastyczności w działaniu czy potrzeb sensorycznych.
                                 </p>
                             </div>
                         </div>
@@ -155,23 +149,6 @@
                             </div>
                         </div>
                     </li>
-                    <li>
-                        <div class="tl-circ img-circle"><i class="fa fa-file-text"></i></div>
-                        <div class="timeline-panel">
-                            <div class="tl-heading">
-                                <h4>Możliwość przygotowania planu terapeutycznego</h4>
-                            </div>
-                            <div class="tl-body">
-                                <p>
-                                    Możliwe jest przygotowanie dodatkowego planu terapeutycznego, np. dla szkoły,
-                                    przedszkola. Plan terapeutyczny jest dodatkowo płatny i nie wchodzi w skład
-                                    podstawowej usługi diagnostycznej. Opieramy go umiejętności prezentowane przez
-                                    dziecko i planujemy oddziaływania w oparciu o cele znajdujące się sferze
-                                    najbliższego rozwoju, które będą funkcjonalnymi dla dziecka.
-                                </p>
-                            </div>
-                        </div>
-                    </li>
                 </ul>
             </div>
         </div>
@@ -179,7 +156,7 @@
 </section>
 <!-- Timeline Section End -->
 
-<section class="padding-bottom-50" id="proces">
+<section class="padding-bottom-50" id="proces-dorosli">
     <div class="container">
 
         <div class="row text-center">

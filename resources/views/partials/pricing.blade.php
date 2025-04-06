@@ -21,7 +21,7 @@
                             <p>Forma wsparcia krótkoterminowego mająca na celu doraźną pomoc.</p>
                             <p><strong>1</strong> godzina spotkania</p>
                             <p class="text-center">
-                                <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
+                                <a class="btn btn-default btn-xl btn-normal" href="/kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                             <p>Opinia psychologiczna dot. przebiegu procesu diagnostycznego</p>
                             <p>Podsumowanie</p>
                             <p class="text-center"><a class="btn btn-default btn-xl btn-normal"
-                                                      href="#kontakt">Kontakt</a>
+                                                      href="/kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>
@@ -65,7 +65,7 @@
                             <p><strong>Opracowanie</strong> wyników</p>
                             <p>Podsumowanie i przekazanie opinii z wnioskami diagnostycznymi</p>
                             <p class="text-center"><a class="btn btn-default btn-xl btn-normal"
-                                                      href="#kontakt">Kontakt</a>
+                                                      href="/kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>
@@ -86,7 +86,7 @@
                             <p>Jedno spotkanie ok 90-120 min.</p>
                             <p>* Jeśli badanie wymaga więcej niż jednego spotkania, to koszt kolejnego wynosi 150 zł</p>
                             <p class="text-center">
-                                <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
+                                <a class="btn btn-default btn-xl btn-normal" href="/kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>
@@ -112,7 +112,7 @@
                             <p>Opracowanie wniosków</p>
                             <p>Podsumowanie</p>
                             <p class="text-center">
-                                <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
+                                <a class="btn btn-default btn-xl btn-normal" href="/kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>
@@ -133,7 +133,7 @@
                             <p>Badanie i omówienie wyników</p>
                             <p>Pisemne podsumowanie</p>
                             <p class="text-center">
-                                <a class="btn btn-default btn-xl btn-normal" href="#kontakt">Kontakt</a>
+                                <a class="btn btn-default btn-xl btn-normal" href="/kontakt">Kontakt</a>
                             </p>
                         </div>
                     </div>

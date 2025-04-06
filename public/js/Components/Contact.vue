@@ -62,8 +62,10 @@
                         v-model="form.age"
                     >
                         <option>... wybierz</option>
-                        <option value="dorosly">Diagnoza osoby dorosłej</option>
-                        <option value="dziecko">Diagnoza dziecka</option>
+                        <option value="ASD dorosly">Diagnoza ASD osoby dorosłej</option>
+                        <option value="ASD dziecko">Diagnoza ASD dziecka</option>
+                        <option value="ADHD dorosly">Diagnoza ADHD osoby dorosłej</option>
+                        <option value="ADHD dziecko">Diagnoza ADHD dziecka</option>
                     </select>
                 </div>
             </div>
