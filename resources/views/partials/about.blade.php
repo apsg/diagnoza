@@ -1,4 +1,3 @@
-
 <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog"
      aria-labelledby="myLargeModalLabel" aria-hidden="true" id="ados-opis">
     <div class="modal-dialog modal-lg">
@@ -34,6 +33,35 @@
         </div>
     </div>
 </div>
+<div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog"
+     aria-labelledby="myLargeModalLabel" aria-hidden="true" id="moxo-opis">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body text-left">
+                <p><strong>MOXO</strong> jest komputerowym testem ciągłego wykonywania, który wspiera diagnozę
+                    trudności charakterystycznych dla ADHD. Posiada wersję dla dzieci (od 6 roku życia) oraz młodzieży i
+                    dorosłych (od 13 roku życia).
+                </p>
+                <p>
+                    Na podstawie reakcji osoby badanej na materiał testowy otrzymuje się wyniki dotyczące umiejętności
+                    utrzymywania uwagi i prawidłowego reagowania, skłonności do reagowania pod wpływem impulsu czy
+                    trudności z hamowaniem reakcji motorycznych, a także sprawdzana jest umiejętność trafnego i
+                    szybkiego reagowania. Dodatkowo w trakcie badania obecne są dystraktory wizualne, dźwiękowe oraz
+                    mieszane, co dodatkowo pozwala na ocenę wpływu różnego rodzaju bodźców rozpraszających na badane
+                    funkcje poznawcze.
+                </p>
+                <p>
+                    Badanie może odbywać się w gabinecie lub w formie zdalnej.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- Who we are -->
 <section>
     <div class="container">
@@ -62,6 +90,21 @@
                         umiejętności, z których mogą skorzystać od zaraz, zwłaszcza poza gabinetem. Istotne jest, by
                         terapia była dobrym, bezpiecznym i rozwijającym doświadczeniem dla dziecka i jego
                         najbliższych.
+                    </p>
+                </div>
+                <div class="col-inner">
+                    <div class="section-sub-title">
+                        <h3 class="under-line">Co nas wyróżnia?</h3>
+                    </div>
+                    <p>
+                        Diagnozowanie to jeden z elementów naszej pracy. Aby zajmować się diagnozowaniem poza
+                        ukończeniem studiów i szkoły psychoterapii, szkoliłyśmy się z zakresu neuroróżnorodności (i
+                        ciągle się doszkalamy). Na co dzień zajmujemy się również prowadzeniem psychoterapii. Dzięki
+                        temu poza specjalistyczną wiedzą dotyczącą neuroróżnorodności posiadamy doświadczenie
+                        umożliwiające szersze spojrzenie na problemy. Dodatkowo codzienna praca terapeutyczna z osobami
+                        z ADHD i spektrum autyzmu pozwala nam lepiej rozumieć zgłaszane trudności. Uważamy, że główną
+                        częścią diagnozy jest dokładny wywiad, który uzupełniamy o dodatkowe narzędzia takie jak ADOS-2
+                        czy MOXO.
                     </p>
                 </div>
                 <div class="col-inner">

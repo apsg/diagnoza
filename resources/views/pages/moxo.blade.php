@@ -18,7 +18,7 @@
                                 <div class="section-title">
                                     <h1 class="section-title-divider stark-animated animated"
                                         data-animation="lightSpeedIn"
-                                        data-animation-duration="2.5s">Diagnoza <span
+                                        data-animation-duration="2.5s">Test <span
                                             class="primary-color">MOXO</span></h1>
                                 </div>
                                 <a class="btn btn-default btn-xl stark-animated animated" href="#ados"
@@ -64,12 +64,13 @@
                             Diagnoza ADHD
                         </p>
                     </div>
-                    <a class="btn btn-default btn-xl btn-bg-white" href="#proces">Zobacz jak przebiega proces
-                        badania</a>
+                    <a class="btn btn-default btn-xl btn-bg-white" href="#proces">Proces badania dzieci i młodzieży</a>
+                    <a class="btn btn-default btn-xl btn-bg-white" href="#proces-dorosli">Proces
+                        badania dorosłych</a>
                     <a class="btn btn-default btn-xl btn-bg-white margin-lr-50"
                        href="#proces"
                        data-toggle="modal"
-                       data-target="#ados-opis"
+                       data-target="#moxo-opis"
                     >
                         Czym jest MOXO?</a>
 
@@ -79,5 +80,7 @@
     </section>
 
     @include('partials.combined')
+
+    @include('partials.proces-moxo')
 
 @endsection

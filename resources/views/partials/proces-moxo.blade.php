@@ -62,19 +62,18 @@
                         </div>
                         <div class="timeline-panel">
                             <div class="tl-heading">
-                                <h4>Wywiad rozwojowy z rodzicem/opiekunem</h4>
+                                <h4>Wywiad rozwojowy z rodzicami/opiekunami</h4>
                                 <p>
                                     <small class="text-muted">
-                                        <i class="fa fa-clock-o"></i> 2 godziny, zdalnie lub na żywo
+                                        <i class="fa fa-clock-o"></i> ok 120 min.
                                     </small>
                                 </p>
                             </div>
                             <div class="tl-body">
                                 <p>
-                                    Spotkanie z rodzicami/opiekunami, odbywa się ono pod nieobecność młodego człowieka.
-                                    Pytania dotyczą rozwoju dziecka od okresu niemowlęcego do aktualnego wieku, ze
-                                    szczególnym zwróceniem uwagi na rozwój relacji rówieśniczych, zainteresowań,
-                                    elastyczności w działaniu czy potrzeb sensorycznych.
+                                    Spotkanie odbywa się pod nieobecność młodego człowieka. Dotyczy ono rozwoju
+                                    psychospołecznego dziecka, ze szczególnym uwzględnieniem trudności
+                                    charakterystycznych dla ADHD.
                                 </p>
                             </div>
                         </div>
@@ -84,22 +83,17 @@
                         <div class="tl-circ img-circle"><i class="fa fa-area-chart"></i></div>
                         <div class="timeline-panel">
                             <div class="tl-heading">
-                                <h4>Dwa spotkania diagnostyczne</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 2 x 50min / 2
-                                        diagnostki</small></p>
+                                <h4>Spotkania z dzieckiem</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 2 spotkania po ok. 50
+                                        minut</small></p>
                             </div>
                             <div class="tl-body">
                                 <p>
-                                    Na jednym ze spotkań przeprowadzona zostaje diagnoza z wykorzystaniem ADOS-2 - w tym
-                                    spotkaniu biorą udział dwie diagnostki – jedna osoba pozostaje w relacji z osobą
-                                    biorącą udział w procesie diagnostycznym, druga zaś pełni funkcję obserwatorki.
-                                    Drugie zaś jest mniej ustrukturyzowane, ma na celu potwierdzenie wstępnych hipotez i
-                                    obserwacji, a także poszerzenie ich o nieco inny kontekst sytuacyjny. W wyjątkowych
-                                    sytuacjach, (np. dużych wątpliwości diagnostycznych) proponujemy umówienie
-                                    dodatkowego spotkania lub (w przypadku dzieci) pytamy o możliwość obserwacji w
-                                    naturalnym środowisku – szkole, przedszkolu, żłobku. Czasem także prosimy osoby
-                                    dorosłe o powrót do etapu wywiadu, by wyjaśnić nieścisłości, które uwidaczniają się
-                                    podczas kolejnych spotkań.
+                                    Przebieg spotkań dostosowany jest do wieku rozwojowego dziecka. W przypadku
+                                    nastolatków jest to zazwyczaj wywiad dotyczący obserwowanych wyzwań i trudności, zaś
+                                    w przypadku dzieci gry i zabawy pozwalające na obserwację dziecka w sytuacji
+                                    zabawowej i zadaniowej. Podczas jednego spotkania wykonywany jest test MOXO, czasem
+                                    także inne testy i zadania dobrane przez diagnostkę.
                                 </p>
                             </div>
                         </div>
@@ -107,45 +101,41 @@
 
                     <li>
                         <div class="tl-circ img-circle">
-                            <i class="fa fa-hourglass-o"></i>
+                            <i class="fa fa-heart-o"></i>
                         </div>
                         <div class="timeline-panel">
                             <div class="tl-heading">
-                                <h4>Opracowanie wyników i wydanie opinii</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 2 tygodnie</small></p>
+                                <h4>Spotkanie podsumowujące</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> ok 50 min</small></p>
                             </div>
                             <div class="tl-body">
                                 <p>
-                                    Proces ten trwa około dwóch tygodni. Podsumowujemy wówczas wszystkie zebrane
-                                    informacje, odnosimy się do kryteriów diagnostycznych dla konkretnych trudności
-                                    zawartych w
-                                    <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
-                                    oraz
-                                    <a href="https://pl.wikipedia.org/wiki/Międzynarodowa_Klasyfikacja_Chorób_ICD-10"
-                                       target="_blank">ICD-10/11</a>.
-                                    Na tej podstawie przygotowujemy dokument opisujący
-                                    proces diagnostyczny.
-                                    W przypadku rozpoznania konkretnych trudności uwzględniamy w nim zalecenia do
-                                    dalszej pracy.
+                                    Spotkanie z rodzicami. Ma na celu przekazanie wyników diagnosty oraz zaleceń do
+                                    dalszej pracy i sposobów wspierania dziecka/nastolatka w odniesieniu do zgłaszanych
+                                    wyzwań.
+                                    W przypadku diagnozy starszych nastolatków czasem zalecane jest dodatkowe spotkanie
+                                    podsumowujące dla młodego człowieka, co wiąże się z dodatkowym kosztem wg cennika.
                                 </p>
                             </div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="tl-circ img-circle"><i class="fa fa-heart-o"></i></div>
+                        <div class="tl-circ img-circle"><i class="fa fa-hourglass-o"></i></div>
                         <div class="timeline-panel">
                             <div class="tl-heading">
-                                <h4>Podsumowanie i zalecenia</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 1 h</small></p>
+                                <h4>Opracowanie wyników i przygotowanie opinii</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> do 2 tygodni</small></p>
                             </div>
                             <div class="tl-body">
                                 <p>
-                                    Spotkanie podsumowujące podczas którego osoba prowadząca badanie przekazuje wyniki
-                                    postępowania diagnostycznego oraz zalecenia do dalszej pracy, jeśli to konieczne.
-                                    Staramy się wówczas udzielić wsparcia w zakresie możliwych dalszych działań.
+                                    Proces ten trwa około dwóch tygodni. Opisujemy wówczas wszystkie zebrane informacje,
+                                    odnosimy się do kryteriów diagnostycznych dla konkretnych trudności zawartych
+                                    w <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
+                                    oraz <a
+                                        href="https://pl.wikipedia.org/wiki/Międzynarodowa_Klasyfikacja_Chorób_ICD-10"
+                                        target="_blank">ICD-10/11</a>.
+                                    Opinia zawiera także pisemne zalecenia dla rodziców i/lub nauczycieli.
                                 </p>
-                                <p>W przypadku diagnozy starszych nastolatków czasem zalecane jest dodatkowe spotkanie
-                                    podsumowujące dla młodego człowieka (dodatkowy koszt 200 zł).</p>
                             </div>
                         </div>
                     </li>
@@ -163,7 +153,6 @@
             <div class="col-sm-12">
                 <div class="section-title">
                     <h2 class="section-title-divider primary-divider">Diagnoza dorosłych</h2>
-                    <p>Prowadzony przez jedną diagnostkę.</p>
                 </div>
             </div>
         </div>
@@ -208,16 +197,17 @@
                                 <h4>Konsultacja dot. bieżącego funkcjonowania</h4>
                                 <p>
                                     <small class="text-muted">
-                                        <i class="fa fa-clock-o"></i> ok. 50 - 60 minut zdalnie lub na żywo
+                                        <i class="fa fa-clock-o"></i> 1 spotkanie ok. 50-60 minut
                                     </small>
                                 </p>
                             </div>
                             <div class="tl-body">
-                                <p>Pierwsze
-                                    spotkanie mające na celu poznanie człowieka, jego potrzeb a także sposobu
-                                    codziennego funkcjonowania
-                                    w różnych sferach (społecznej, zawodowej, rodzinnej) zarówno pod kątem zasobów jak i
-                                    wyzwań.
+                                <p>
+                                    Pierwsze spotkanie mające na celu poznanie człowieka, jego potrzeb a także sposobu
+                                    codziennego funkcjonowania w różnych sferach (społecznej, zawodowej, rodzinnej)
+                                    zarówno pod kątem zasobów jak i wyzwań. W przypadku wątpliwości co do zasadności
+                                    kontynuowania diagnozy jest to spotkanie, które pomaga wspólnie zdecydować o
+                                    dalszych krokach.
                                 </p>
                             </div>
                         </div>
@@ -228,31 +218,20 @@
                         </div>
                         <div class="timeline-panel">
                             <div class="tl-heading">
-                                <h4>Wywiad</h4>
+                                <h4>Wywiad rozwojowy</h4>
                                 <p>
                                     <small class="text-muted">
-                                        <i class="fa fa-clock-o"></i> 2 godziny, zdalnie lub na żywo
+                                        <i class="fa fa-clock-o"></i> 3 spotkania po ok. 50-60 minut
                                     </small>
                                 </p>
                             </div>
                             <div class="tl-body">
-                                <p>Wywiad dotyczy bieżących trudności oraz rozwoju człowieka. W pierwszym spotkaniu,
-                                    poza osobą
-                                    zainteresowaną diagnozą może brać udział bliska osoba – partner/ka, rodzic,
-                                    rodzeństwo, przyjaciel/łka.
-                                    Obecność trzeciej osoby służy poszerzeniu perspektywy diagnostycznej i możliwości
-                                    zebrania
-                                    dodatkowych informacji. Jest to forma przydatna, jednak nie jest niezbędna do
-                                    przeprowadzenia procesu.
-                                    Kluczowym dla nas jest to, by osoba biorąca udział w diagnozie mogła czuć się
-                                    możliwie bezpiecznie i
-                                    swobodnie. Istnieje możliwość, by bliska osoba dołączyła w trakcie wywiadu, może się
-                                    także połączyć
-                                    telefonicznie lub w formie wideorozmowy. Jeśli osoba biorąca udział w diagnozie
-                                    posiada jakieś opinie,
-                                    dokumentację z okresu edukacji przedszkolnej czy szkolnej prosimy o ich
-                                    dostarczenie, by zebrać
-                                    możliwie dużo danych. Wywiad trwa ok. 2h
+                                <p>Wywiad dotyczy bieżących trudności oraz historii życia człowieka w odniesieniu do
+                                    sfery społecznej, edukacyjnej, czasu wolnego, zainteresowań oraz codziennych
+                                    aktywności. Do diagnozy wykorzystujemy ustrukturyzowany kwestionariusz DIVA-5. Jeśli
+                                    to możliwe zachęcamy, by w jednym ze spotkań wzięła udział osoba z najbliższego
+                                    otoczenia osoby diagnozowanej, znająca jest funkcjonowanie aktualnie lub w
+                                    przeszłości (np. rodzic, partner/ka, przyjaciel/ółka).
                                 </p>
                             </div>
                         </div>
@@ -262,12 +241,13 @@
                         <div class="tl-circ img-circle"><i class="fa fa-area-chart"></i></div>
                         <div class="timeline-panel">
                             <div class="tl-heading">
-                                <h4>ADOS-2</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 50 min</small></p>
+                                <h4>TEST MOXO</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> ok. 30-50 minut</small></p>
                             </div>
                             <div class="tl-body">
-                                <p>Spotkanie diagnostyczne z wykorzystaniem półustruktoryzowanego protokołu służącego
-                                    diagnozie zaburzeń ze spektrum autyzmu. Spotkanie trwa ok. 50 min.
+                                <p>
+                                    W niektórych przypadkach sugerujemy poszerzenie diagnozy o test komputerowy MOXO.
+                                    Wiąże się z to z dodatkowym kosztem wg cennika.
                                 </p>
                             </div>
                         </div>
@@ -275,45 +255,38 @@
 
                     <li>
                         <div class="tl-circ img-circle">
-                            <i class="fa fa-hourglass-o"></i>
+                            <i class="fa fa-heart-o"></i>
                         </div>
                         <div class="timeline-panel">
                             <div class="tl-heading">
-                                <h4>Opracowanie wyników i wydanie opinii</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 2 tygodnie</small></p>
+                                <h4>Spotkanie podsumowujące</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> ok 50 min.</small></p>
                             </div>
                             <div class="tl-body">
                                 <p>
-                                    Proces ten trwa około dwóch tygodni. Podsumowujemy wówczas wszystkie zebrane
-                                    informacje, odnosimy się do kryteriów diagnostycznych dla konkretnych trudności
-                                    zawartych w
-                                    <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
-                                    oraz
-                                    <a href="https://pl.wikipedia.org/wiki/Międzynarodowa_Klasyfikacja_Chorób_ICD-10"
-                                       target="_blank">ICD-10/11</a>.
-                                    Na tej podstawie przygotowujemy dokument podsumowujący wnioski z
-                                    procesu diagnostycznego (ok. 1 str A4). W przypadku rozpoznania konkretnych
-                                    trudności uwzględniamy w nim zalecenia do dalszej pracy.</p>
-                                <p>
-                                    Istnieje możliwość przygotowania rozbudowanej opinii opisującej cały proces
-                                    terapeutyczny, np. na potrzeby lekarza psychiatry czy zespołu leczącego (ok. 6-7
-                                    stron A4).
+                                    Spotkanie ma na celu przekazanie wniosków diagnostycznych oraz zaleceń dotyczących
+                                    strategii dalszego radzenia sobie z objawami zgłaszanymi podczas wcześniejszych
+                                    spotkań. Jest to także przestrzeń na udzielenie odpowiedzi na dodatkowe pytania
+                                    wniesione przez osobę diagnozowaną.
                                 </p>
                             </div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="tl-circ img-circle"><i class="fa fa-heart-o"></i></div>
+                        <div class="tl-circ img-circle"><i class="fa fa-hourglass-o"></i></div>
                         <div class="timeline-panel">
                             <div class="tl-heading">
-                                <h4>Spotkanie podsumowujące</h4>
-                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> 1 h</small></p>
+                                <h4>Opracowanie wyników i przygotowanie opinii</h4>
+                                <p><small class="text-muted"><i class="fa fa-clock-o"></i> do 2 tygodni</small></p>
                             </div>
                             <div class="tl-body">
-                                <p>W trakcie spotkania diagnostka stara odpowiedzieć się na pytania, które
-                                    zostały zadane w trakcie pierwszego spotkania, podsumowuje proces diagnostyczny,
-                                    przekazuje zalecenia
-                                    oraz pisemną opinię, jeśli ustalono, że zostanie przygotowana.
+                                <p>
+                                    Proces ten trwa około dwóch tygodni. Opisujemy wówczas wszystkie zebrane informacje,
+                                    odnosimy się do kryteriów diagnostycznych dla konkretnych trudności zawartych
+                                    w <a href="https://pl.wikipedia.org/wiki/DSM-5" target="_blank">DSM-V</a>
+                                    oraz <a
+                                        href="https://pl.wikipedia.org/wiki/Międzynarodowa_Klasyfikacja_Chorób_ICD-10"
+                                        target="_blank">ICD-10/11</a>.
                                 </p>
                             </div>
                         </div>

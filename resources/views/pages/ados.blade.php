@@ -66,8 +66,9 @@
                             Diagnoza autyzmu
                         </p>
                     </div>
-                    <a class="btn btn-default btn-xl btn-bg-white" href="#proces">Zobacz jak przebiega proces
-                        badania</a>
+                    <a class="btn btn-default btn-xl btn-bg-white" href="#proces">Proces badania dzieci i młodzieży</a>
+                    <a class="btn btn-default btn-xl btn-bg-white" href="#proces-dorosli">Proces
+                        badania dorosłych</a>
                     <a class="btn btn-default btn-xl btn-bg-white margin-lr-50"
                        href="#proces"
                        data-toggle="modal"
