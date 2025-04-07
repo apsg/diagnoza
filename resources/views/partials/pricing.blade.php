@@ -34,11 +34,11 @@
                             <h3>1400<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
-                            <h2>Diagnoza ADOS-2 dzieci i młodzieży</h2>
+                            <h2>Diagnoza ASD dzieci i młodzieży</h2>
                         </div>
                         <div class="price-content">
                             <p>Wstępny wywiad rozwojowy</p>
-                            <p>2 obserwacje dziecka/nastolatka</p>
+                            <p>2 obserwacje dziecka/nastolatka (w tym test ADOS-2)</p>
                             <p><strong>Opracowanie</strong> wyników</p>
                             <p>Opinia psychologiczna dot. przebiegu procesu diagnostycznego</p>
                             <p>Podsumowanie</p>
@@ -56,7 +56,7 @@
                             <h3>1250<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
-                            <h2>Diagnoza ADOS-2 osoby dorosłej</h2>
+                            <h2>Diagnoza ASD osoby dorosłej</h2>
                         </div>
                         <div class="price-content">
                             <p>Wywiad dot. bieżącego funkcjonowania</p>
@@ -102,7 +102,7 @@
                             <h3>1250<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
-                            <h2>diagnoza ADHD osób dorosłych</h2>
+                            <h2>Diagnoza ADHD osób dorosłych</h2>
                         </div>
                         <div class="price-content">
                             <p>5 spotkań po ok. 60 min</p>
@@ -125,7 +125,7 @@
                             <h3>420<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
-                            <h2>Diagnoza MOXO</h2>
+                            <h2>Test MOXO</h2>
                         </div>
                         <div class="price-content">
                             <p>1 spotkanie ok 50 min.</p>

@@ -63,7 +63,7 @@
                     <div class="section-title">
                         <h2 class="section-title-divider">Diagnoza ADOS-2 w Krakowie</h2>
                         <p>
-                            Diagnoza autyzmu
+                            Diagnoza zaburzeń ze spektrum autyzmu (ASD)
                         </p>
                     </div>
                     <a class="btn btn-default btn-xl btn-bg-white" href="#proces">Proces badania dzieci i młodzieży</a>
