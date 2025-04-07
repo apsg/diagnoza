@@ -20,7 +20,7 @@ class PagesController extends Controller
             return view('pages.moxo');
         }
 
-        if (in_array($domain, static::MOXO_PAGES)) {
+        if (in_array($domain, static::ADOS_PAGES)) {
             return view('pages.ados');
         }
 
