@@ -9,7 +9,7 @@
             <div class="col-sm-10 col-sm-offset-1 text-center">
                 <h2 class="inline-content"><span>Skontaktuj się z nami!</span></h2>
                 <!-- SECTION TITLE -->
-                <a class="btn btn-default btn-xl btn-inline" href="#kontakt">Kontakt</a>
+                <a class="btn btn-default btn-xl btn-inline" href="/kontakt">Kontakt</a>
             </div>
         </div>
     </div>
