@@ -31,7 +31,7 @@
                 <div class="pricing-table featured">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>1400<br/><span>PLN</span></h3>
+                            <h3>1700<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza ASD dzieci i młodzieży</h2>
@@ -53,7 +53,7 @@
                 <div class="pricing-table featured">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>1250<br/><span>PLN</span></h3>
+                            <h3>1500<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza ASD osoby dorosłej</h2>
@@ -99,7 +99,7 @@
                 <div class="pricing-table">
                     <div class="price-main">
                         <div class="price-amount">
-                            <h3>1250<br/><span>PLN</span></h3>
+                            <h3>1500<br/><span>PLN</span></h3>
                         </div>
                         <div class="price-title">
                             <h2>Diagnoza ADHD osób dorosłych</h2>
