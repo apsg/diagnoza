@@ -35,7 +35,7 @@
                 <div class="contact-mail">
                     <p class="contact-icons"><i class="fa fa-envelope-o primary-color"></i></p>
                     <div class="padding-tb-20">
-                        <a href="mailto:ados@wzmocnienie.pl">ados@wzmocnienie.pl</a>
+                        <a href="mailto:diagnoza@wzmocnienie.pl">diagnoza@wzmocnienie.pl</a>
                     </div>
                 </div>
             </div>
