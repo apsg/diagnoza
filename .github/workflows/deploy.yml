@@ -10,28 +10,6 @@ on:
       - main
 
 jobs:
-#  laravel-tests:
-#    runs-on: ubuntu-latest
-#
-#    steps:
-#      - uses: actions/checkout@v2
-#      - name: Copy .env
-#        run: php -r "file_exists('.env') || copy('.env.example', '.env');"
-#      - name: Install Dependencies
-#        run: composer install -q --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
-#      - name: Generate key
-#        run: php artisan key:generate
-#      - name: Directory Permissions
-#        run: chmod -R 777 storage bootstrap/cache
-#      - name: Create Database
-#        run: |
-#          mkdir -p database
-#          touch database/database.sqlite
-#      - name: Execute tests (Unit and Feature tests) via PHPUnit
-#        env:
-#          DB_CONNECTION: sqlite
-#          DB_DATABASE: database/database.sqlite
-#        run: vendor/bin/phpunit
 
   build:
     runs-on: ubuntu-latest
@@ -46,31 +24,35 @@ jobs:
         run: npm install
       - name: Build assets
         run: npm run prod
+
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@v2.1.6
         env:
           SSH_PRIVATE_KEY: ${{ secrets.KEY }}
           ARGS: "-rltgoDzvO"
           SOURCE: "/"
-          REMOTE_HOST: ${{ secrets.HOST }}
-          REMOTE_USER: ${{ secrets.USER }}
-          TARGET: ${{ secrets.TARGET }}
-          EXCLUDE: "/node_modules/, /.idea/, /.git/, /vendor/, /.github/"
-      - name: Creating .env file should go here
-        run: echo "Creating env file..."
+          REMOTE_HOST: ${{ vars.HOST }}
+          REMOTE_USER: ${{ vars.USERNAME }}
+          REMOTE_PORT: 10229
+          TARGET: ${{ vars.TARGET }}
+          EXCLUDE: "/node_modules/, /.idea/, /.git/, /vendor/, /.github/, /.agents/, /.claude/"
+        with:
+          REMOTE_HOST: ${{ vars.HOST }}
+          REMOTE_USER: ${{ vars.USERNAME }}
+          SSH_PRIVATE_KEY: ${{ secrets.KEY }}
+
       - name: Composer and migrations
         uses: JimCronqvist/action-ssh@master
         with:
-          hosts: ${{ secrets.USER }}@${{ secrets.HOST }}
+          hosts: ${{ vars.USERNAME }}@${{ vars.HOST }}:10229
           privateKey: ${{ secrets.KEY }}
           command: |
-            cd ${{ secrets.TARGET }}
-            ln -s public public_html
-            ln -s public public_html
-            composer install --ignore-platform-reqs
-            php82 artisan migrate --force
+            cd ${{ vars.TARGET }}
+            chown -R www-data:www-data .
+            composer install --no-interaction --prefer-dist --optimize-autoloader --ignore-platform-reqs
+            php82 artisan env:decrypt --env=production --key=${{ secrets.ENCRYPT_KEY }} --force --filename=.env
             php82 artisan cache:clear
             php82 artisan view:cache
             php82 artisan config:cache
-            php82 artisan route:cache
             php82 artisan storage:link
+
