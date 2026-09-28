@@ -50,9 +50,9 @@ jobs:
             cd ${{ vars.TARGET }}
             chown -R www-data:www-data .
             composer install --no-interaction --prefer-dist --optimize-autoloader --ignore-platform-reqs
-            php82 artisan env:decrypt --env=production --key=${{ secrets.ENCRYPT_KEY }} --force --filename=.env
-            php82 artisan cache:clear
-            php82 artisan view:cache
-            php82 artisan config:cache
-            php82 artisan storage:link
+            php artisan env:decrypt --env=production --key=${{ secrets.ENCRYPT_KEY }} --force --filename=.env
+            php artisan cache:clear
+            php artisan view:cache
+            php artisan config:cache
+            php artisan storage:link
 
