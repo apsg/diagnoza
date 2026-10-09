@@ -38,7 +38,7 @@
                         </div>
                         <div class="price-content">
                             <p>Wstępny wywiad rozwojowy</p>
-                            <p>2 obserwacje dziecka/nastolatka (w tym test ADOS-2)</p>
+                            <p>2 obserwacje dziecka/nastolatka (w tym badanie ADOS-2)</p>
                             <p><strong>Opracowanie</strong> wyników</p>
                             <p>Opinia psychologiczna dot. przebiegu procesu diagnostycznego</p>
                             <p>Podsumowanie</p>
@@ -131,6 +131,26 @@
                             <p>1 spotkanie ok 50 min.</p>
                             <p>Możliwość badania online</p>
                             <p>Badanie i omówienie wyników</p>
+                            <p>Pisemne podsumowanie</p>
+                            <p class="text-center">
+                                <a class="btn btn-default btn-xl btn-normal" href="/kontakt">Kontakt</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 animated" data-animation="fadeInUp" data-animation-delay="0">
+                <div class="pricing-table">
+                    <div class="price-main">
+                        <div class="price-amount">
+                            <h3>650<br/><span>PLN</span></h3>
+                        </div>
+                        <div class="price-title">
+                            <h2>Badanie ADOS-2</h2>
+                        </div>
+                        <div class="price-content">
+                            <p>2 spotkania ok. 50 min</p>
+                            <p>Badanie i omówienie wniosków</p>
                             <p>Pisemne podsumowanie</p>
                             <p class="text-center">
                                 <a class="btn btn-default btn-xl btn-normal" href="/kontakt">Kontakt</a>
