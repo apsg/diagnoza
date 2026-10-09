@@ -55,9 +55,8 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-md-12">
-                    <p class="copyright-text">Copyright &copy; 2021
+                    <p class="copyright-text">Copyright &copy; 2021-{{ \Carbon\Carbon::now()->format('Y') }}
                         <a href="https://wzmocnienie.pl">Wzmocnienie Aleksandra Magda</a>.
-                        Designed by <a href="https://gackowski.edu.pl/">Szymon Gackowski</a>
                     </p>
                 </div>
             </div>

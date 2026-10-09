@@ -267,7 +267,8 @@
                             </div>
                             <div class="tl-body">
                                 <p>Spotkanie diagnostyczne z wykorzystaniem półustruktoryzowanego protokołu służącego
-                                    diagnozie zaburzeń ze spektrum autyzmu. Spotkanie trwa ok. 50 min.
+                                    diagnozie zaburzeń ze spektrum autyzmu. Jest prowadzone przez inną osobę niż wywiad
+                                    rozwojowy.
                                 </p>
                             </div>
                         </div>

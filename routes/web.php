@@ -8,6 +8,7 @@ Route::get('/', [PagesController::class, 'welcome']);
 
 Route::get('/ados', [PagesController::class, 'ados'])->name('ados');
 Route::get('/moxo', [PagesController::class, 'moxo'])->name('moxo');
+Route::get('/dr', [PagesController::class, 'dr'])->name('dr');
 Route::get('/kontakt', [PagesController::class, 'contact'])->name('contact');
 Route::post('contact', [ContactController::class, 'send']);
 

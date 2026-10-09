@@ -37,6 +37,11 @@ class PagesController extends Controller
         return view('pages.moxo');
     }
 
+    public function dr()
+    {
+        return view('pages.dr');
+    }
+
     public function contact()
     {
         return view('pages.contact');

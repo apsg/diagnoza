@@ -51,27 +51,25 @@
                         <div class="modal-body text-left">
 
                             <h5>Wykształcenia i kwalifikacje:</h5>
-                            <p>Jestem psycholożką i psychoterapeutką w trakcie procesu certyfikacji . Ukończyłam
-                                Uniwersytet Jagielloński. Aktualnie kończę szkołę psychoterapii w nurcie
-                                poznawczo-behawioralnym. Proces certyfikacji zgodny jest ze standardami European
-                                Association for Behavioural and Cognitive Psyhoterapies. Posiadam uprawnienia
-                                pedagogiczne. Swoją pracę poddaję regularnej superwizji.</p>
+                            <p>Jestem psycholożką i psychoterapeutką poznawczo-behawioralną (certyfikat PTTPB nr 1318)
+                                Ukończyłam Uniwersytet Jagielloński i szkołę psychoterapii w nurcie
+                                poznawczo-behawioralnym. Proces certyfikacji zgodny był ze standardami European
+                                Association for Behavioural and Cognitive Psychotherapies. Posiadam uprawnienia
+                                pedagogiczne. Swoją pracę poddaję regularnej superwizji, a wiedzę aktualizuję dzięki
+                                literaturze i szkoleniom.</p>
 
                             <h5>Doświadczenie zawodowe:</h5>
                             <p>
-                                Obecnie pracuję w Niepublicznej Poradni Psychologiczno-Pedagogicznej
-                                „Rozwijanka” oraz Centrum Terapii Poznawczo-Behawioralnej i Terapii Schematów „Mind
-                                Works”.
                                 Zajmuję się prowadzeniem psychoterapii indywidualnej dzieci, młodzieży i dorosłych.
-                                Prowadzę
-                                diagnozy psychologiczne, konsultacje, szkolenia dla rodziców, specjalistów i
+                                Prowadzę diagnozy psychologiczne, konsultacje, szkolenia dla rodziców, specjalistów i
                                 specjalistek.
+
                             </p>
                             <p>
-                                Doświadczenie zawodowe zdobywałam pracując wiele lat w przedszkolu terapeutycznym,
-                                wspierając dzieci realizujące orzeczenia o potrzebie kształcenia specjalnego w różnych
-                                szkołach i przedszkolach. Brałam udział w stażach i wolontariatach, m.in. na Oddziele
-                                Psychiatrii Szpitala Uniwersyteckiego w Krakowie.
+                                Doświadczenie zawodowe zdobywałam pracując w przedszkolu terapeutycznym, poradni
+                                psychologiczno-pedagogicznej oraz ośrodkach psychoterapeutycznych. Brałam udział w
+                                stażach i wolontariatach, m.in. na Oddziale Psychiatrii Szpitala Uniwersyteckiego w
+                                Krakowie.
                             </p>
                             <h5>Poza pracą:</h5>
                             <p>
@@ -113,6 +111,11 @@
                                 <li>VB-MAPP: ocena umiejętności i planowanie terapii - Scolaris</li>
                                 <li>Rozwijanie kluczowych umiejętności komunikacyjnych - Pyramid</li>
                                 <li>Picture Exchange Communication System - poziom 1 - Pyramid</li>
+                                <li>Diagnoza różnicowa zaburzeń ze spektrum autyzmu, ADHD i zaburzeń osobowości u
+                                    dorosłych
+                                </li>
+                                <li>ADOS-2. Diagnoza kliniczna (to zamiast tego, co jest napisane samo ADOS)</li>
+                                <li>Akredytowane Szkolenie z Indywidualna Terapii Schematów ISST</li>
                             </ul>
                         </div>
                     </div>
@@ -154,30 +157,28 @@
                             </button>
                         </div>
                         <div class="modal-body text-left"><h5>Wykształcenia i kwalifikacje:</h5>
-                            <p>Jestem psycholożką i psychoterapeutką. Ukończyłam psychologię na Uniwersytecie
-                                Jagiellońskim, realizując kursy z zakresu psychologii klinicznej i psychologii dziecka.
-                                Obecnie w trakcie czteroletniego szkolenia z zakresu psychoterapii
+                            <p>
+                                Jestem psycholożką i psychoterapeutką. Ukończyłam psychologię na Uniwersytecie
+                                Jagiellońskim oraz czteroletnie szkolenie z zakresu psychoterapii
                                 poznawczo-behawioralnej rekomendowane przez Polskie Towarzystwo Terapii Poznawczej i
                                 Behawioralnej, zgodne ze standardami European Association for Behavioural and Cognitive
-                                Psyhoterapies. Posiadam uprawnienia pedagogiczne.
+                                Psychotherapies (certyfikat nr PTTPB 1319).
+                                Posiadam uprawnienia pedagogiczne.
                             </p>
 
                             <h5>Doświadczenie zawodowe:</h5>
                             <p>
-                                Aktualnie pracuję w Niepublicznej Poradni Psychologiczno-Pedagogicznej „Rozwijanka”, w
-                                Środowiskowym Centrum Pomocy Psychologicznej i Psychoterapeutycznej dla Dzieci i
-                                Młodzieży w Bochni, w Pracowni Pomocy Psychologicznej i Psychoterapeutycznej SOLUTIO.
                                 Prowadzę terapię dzieci, młodzieży i osób dorosłych, a także współprowadzę szkolenia i
                                 warsztaty.
                             </p>
                             <p>
-                                Doświadczenie zawodowe zdobywałam pracując w przedszkolu terapeutycznym, gdzie w
-                                codziennej pracy prowadziłam terapię dzieci z zaburzeniami neurorozwojowymi. Układałam
-                                plany terapeutyczne i realizowałam je w codziennej pracy z dzieckiem. Mam również
-                                doświadczenie w pracy na oddziale dziennym w Szpitalu Klinicznym im. dr. Józefa
-                                Babińskiego w Krakowie. Podczas studiów pracowałam w wakacje jako sterniczka i
-                                wychowawczyni na żeglarskich obozach terapeutycznych dla dzieci i nastolatków z
-                                zaburzeniami ze spektrum autyzmu i ADHD. Uczestniczyłam też w stażach i wolontariatach.
+                                Doświadczenie zawodowe zdobywałam pracując w przedszkolu terapeutycznym, poradni
+                                psychologiczno-pedagogicznej, Środowiskowym Centrum Pomocy Psychologicznej i
+                                Psychoterapeutycznej dla Dzieci i Młodzieży. Mam również doświadczenie w pracy na
+                                oddziale dziennym w Szpitalu Klinicznym im. dr. Józefa Babińskiego w Krakowie. Podczas
+                                studiów pracowałam w wakacje jako sterniczka i wychowawczyni na żeglarskich obozach
+                                terapeutycznych dla dzieci i nastolatków z zaburzeniami ze spektrum autyzmu i ADHD.
+                                Uczestniczyłam też w stażach i wolontariatach.
                             </p>
                             <h5>Poza pracą:</h5>
                             <p>
@@ -213,12 +214,35 @@
                                 i Pedagogicznych)
                                 <li>Zabawa w terapii dziecka z autyzmem (Poradnia Rozwoju Dziecka i Rodziny Cresco)</li>
                                 <li>Praktyk Biofeedback HRV - Relaksacja.pl</li>
+                                <li>Diagnoza różnicowa zaburzeń ze spektrum autyzmu, ADHD i zaburzeń osobowości u
+                                    dorosłych
+                                </li>
+                                <li>ADOS-2. Diagnoza kliniczna (to zamiast tego, co jest napisane samo ADOS)</li>
+                                <li>Diagnoza i terapia ADHD u dorosłych i dzieci, dr. Anna Pyszkowska</li>
+                                <li>Więcej niż prokrastynacja: Budowanie funkcji wykonawczych u austystycznych dorosłych
+                                    i z ADHD
+                                </li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
 
+        </div>
+
+        <div class="row text-center">
+            <div class="col-sm-12">
+                <div class="section-title">
+                    <h2 class="section-title-divider primary-divider">Posiadamy Certyfikat Spektrum Inkluzywności</h2>
+                    <!-- SECTION TITLE -->
+                    <p class="text-center">
+                        <a href="/certyfikat_wzmocnienie.pdf" target="_blank">
+                            <img
+                                alt="Certyfikat Spektrum Inkluzywności" style="max-width: 400px;"
+                                src="/images/cert.png"></a>
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </section>
