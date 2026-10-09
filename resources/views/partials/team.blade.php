@@ -79,6 +79,11 @@
                             </p>
                             <h5>Ważniejsze szkolenia i kursy:</h5>
                             <ul>
+                                <li>Diagnoza różnicowa zaburzeń ze spektrum autyzmu, ADHD i zaburzeń osobowości u
+                                    dorosłych
+                                </li>
+                                <li>ADOS-2. Diagnoza kliniczna (to zamiast tego, co jest napisane samo ADOS)</li>
+                                <li>Akredytowane Szkolenie z Indywidualna Terapii Schematów ISST</li>
                                 <li>Spektakularne dziewczyny. Konferencja o dziewczynach i kobietach w spektrum autyzmu
                                     -
                                     Fundacja Artonomia i Dziewczyny w Spektrum.
@@ -111,11 +116,6 @@
                                 <li>VB-MAPP: ocena umiejętności i planowanie terapii - Scolaris</li>
                                 <li>Rozwijanie kluczowych umiejętności komunikacyjnych - Pyramid</li>
                                 <li>Picture Exchange Communication System - poziom 1 - Pyramid</li>
-                                <li>Diagnoza różnicowa zaburzeń ze spektrum autyzmu, ADHD i zaburzeń osobowości u
-                                    dorosłych
-                                </li>
-                                <li>ADOS-2. Diagnoza kliniczna (to zamiast tego, co jest napisane samo ADOS)</li>
-                                <li>Akredytowane Szkolenie z Indywidualna Terapii Schematów ISST</li>
                             </ul>
                         </div>
                     </div>
@@ -186,7 +186,14 @@
                             </p>
                             <h5>Ważniejsze szkolenia i kursy:</h5>
                             <ul>
-                                <li>ADOS</li>
+                                <li>Diagnoza różnicowa zaburzeń ze spektrum autyzmu, ADHD i zaburzeń osobowości u
+                                    dorosłych
+                                </li>
+                                <li>ADOS-2. Diagnoza kliniczna (to zamiast tego, co jest napisane samo ADOS)</li>
+                                <li>Diagnoza i terapia ADHD u dorosłych i dzieci, dr. Anna Pyszkowska</li>
+                                <li>Więcej niż prokrastynacja: Budowanie funkcji wykonawczych u austystycznych dorosłych
+                                    i z ADHD
+                                </li>
                                 <li>Psychoterapia dzieci i młodzieży. Ujęcie poznawczo-behawioralne - NOND MENSANA</li>
                                 <li>Problemy wieku rozwojowego w ujęciu poznawczo – behawioralnym - NOND Mensana</li>
                                 <li>Trening Kontroli Złości dla dzieci i młodzieży z trudnymi zachowaniami - Ośrodek
@@ -214,14 +221,6 @@
                                 i Pedagogicznych)
                                 <li>Zabawa w terapii dziecka z autyzmem (Poradnia Rozwoju Dziecka i Rodziny Cresco)</li>
                                 <li>Praktyk Biofeedback HRV - Relaksacja.pl</li>
-                                <li>Diagnoza różnicowa zaburzeń ze spektrum autyzmu, ADHD i zaburzeń osobowości u
-                                    dorosłych
-                                </li>
-                                <li>ADOS-2. Diagnoza kliniczna (to zamiast tego, co jest napisane samo ADOS)</li>
-                                <li>Diagnoza i terapia ADHD u dorosłych i dzieci, dr. Anna Pyszkowska</li>
-                                <li>Więcej niż prokrastynacja: Budowanie funkcji wykonawczych u austystycznych dorosłych
-                                    i z ADHD
-                                </li>
                             </ul>
                         </div>
                     </div>
