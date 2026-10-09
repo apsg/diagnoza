@@ -89,7 +89,7 @@
 								<span class="counter-icon">
 								<i class="flaticon-user"></i>
 								</span>
-                    <h3 class="counter" data-counter="972">
+                    <h3 class="counter" data-counter="2480">
                         2480
                     </h3>
                     <span class="counter-text">
@@ -102,7 +102,7 @@
 								<span class="counter-icon">
 								<i class="flaticon-clock"></i>
 								</span>
-                    <h3 class="counter" data-counter="315">
+                    <h3 class="counter" data-counter="530">
                         530
                     </h3>
                     <span class="counter-text">
@@ -128,7 +128,7 @@
 								<span class="counter-icon">
 								<i class="flaticon-pencil"></i>
 								</span>
-                    <h3 class="counter" data-counter="68">
+                    <h3 class="counter" data-counter="85">
                         85
                     </h3>
                     <span class="counter-text">
