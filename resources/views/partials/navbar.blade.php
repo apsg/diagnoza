@@ -21,8 +21,8 @@
                         <i class="fa fa-home"></i>
                     </a></li>
                 <li><a href="/dr">Diagnoza różnicowa</a> </li>
-                <li><a href="#zespol">O nas</a></li>
-                <li><a href="#cennik">Cennik</a></li>
+                <li><a href="/#zespol">O nas</a></li>
+                <li><a href="/#cennik">Cennik</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Diagnoza ADHD <span class="caret"></span></a>
                     <ul class="dropdown-menu">
