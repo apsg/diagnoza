@@ -335,7 +335,7 @@
 								<i class="flaticon-user"></i>
 								</span>
                         <h3 class="counter" data-counter="972">
-                            972
+                            2480
                         </h3>
                         <span class="counter-text">
 								Wykonanych diagnoz
@@ -348,7 +348,7 @@
 								<i class="flaticon-clock"></i>
 								</span>
                         <h3 class="counter" data-counter="315">
-                            315
+                            530
                         </h3>
                         <span class="counter-text">
                             Godzin przeprowadzonych szkoleń
@@ -374,7 +374,7 @@
 								<i class="flaticon-pencil"></i>
 								</span>
                         <h3 class="counter" data-counter="68">
-                            68
+                            85
                         </h3>
                         <span class="counter-text">
                             Odbytych szkoleń specjalistycznych
