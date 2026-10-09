@@ -20,7 +20,7 @@
                                     <h1 class="section-title-divider stark-animated animated"
                                         data-animation="lightSpeedIn"
                                         data-animation-duration="2.5s">Diagnoza <span
-                                            class="primary-color">ADOS-2</span></h1>
+                                            class="primary-color">psychologiczna</span></h1>
                                 </div>
                                 <a class="btn btn-default btn-xl stark-animated animated" href="#ados"
                                    data-animation="bounceInDown" data-animation-duration="1.5s"
@@ -61,7 +61,7 @@
             <div class="row">
                 <div class="col-sm-10 col-sm-offset-1 text-center">
                     <div class="section-title">
-                        <h2 class="section-title-divider">Diagnoza ADOS-2 w Krakowie</h2>
+                        <h2 class="section-title-divider">Diagnoza psychologiczna w Krakowie</h2>
                         <p>
                             Diagnoza zaburzeń ze spektrum autyzmu (ASD)
                         </p>

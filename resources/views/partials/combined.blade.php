@@ -32,9 +32,9 @@
                         <i class="flaticon-line-chart"></i>
                     </div>
                 </figure>
-                <h4 class="service-title title-bordered">Diagnoza ADOS</h4>
+                <h4 class="service-title title-bordered">Diagnoza psychologiczna</h4>
                 <p class="service-content">
-                    Diagnoza psychologiczna pod kątem zaburzeń ze spektrum autyzmu z wykorzystaniem skali ADOS-2.
+                    Diagnoza psychologiczna na podstawie problemów i wyzwań zgłaszanych przez klienta pod kątem zaburzeń psychicznych, neurozwojowych oraz trudności współwystępujących.
                 </p>
             </div>
             <div class="col-md-3 col-sm-6 service-box-col">

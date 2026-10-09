@@ -56,7 +56,7 @@
                                     <h1 class="section-title-divider stark-animated animated"
                                         data-animation="lightSpeedIn"
                                         data-animation-duration="2.5s">Diagnoza <span
-                                            class="primary-color">ADOS-2</span></h1>
+                                            class="primary-color">Psychologiczna</span></h1>
                                 </div>
                                 <a class="btn btn-default btn-xl stark-animated animated" href="#ados"
                                    data-animation="bounceInDown" data-animation-duration="1.5s"
