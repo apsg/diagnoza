@@ -16,6 +16,19 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
     <![endif]-->
 
+    <script type="application/ld+json">
+        {!! json_encode(
+            \App\SchemaHelper::generateSchema(),
+            JSON_UNESCAPED_UNICODE
+                | JSON_UNESCAPED_SLASHES
+                | JSON_PRETTY_PRINT
+                | JSON_HEX_TAG
+                | JSON_HEX_AMP
+                | JSON_HEX_APOS
+                | JSON_HEX_QUOT
+        ) !!}
+    </script>
+
     <link rel="stylesheet" href="{{ asset('css/theme.css') }}" type="text/css"/>
     <link rel="stylesheet" href="{{ asset('/css/app.css') }}" type="text/css">
     <title>@yield('title') | {{ config('app.name') }}</title>
