@@ -31,9 +31,28 @@
 
     <link rel="stylesheet" href="{{ asset('css/theme.css') }}" type="text/css"/>
     <link rel="stylesheet" href="{{ asset('/css/app.css') }}" type="text/css">
-    <title>@yield('title') | {{ config('app.name') }}</title>
 
-    @meta_tags
+    <title>@yield('title', 'Diagnoza psychologiczna w Krakowie') | Diagnoza Psychologiczna</title>
+
+    <meta name="description"
+          content="@yield('meta_description', 'Gabinet psychologiczny w Krakowie. Diagnoza ASD, badanie ADOS-2, MOXO, diagnoza ADHD, konsultacje psychologiczne i cennik.')">
+
+    <link rel="canonical" href="{{ url()->current() }}">
+
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="pl_PL">
+    <meta property="og:site_name" content="Diagnoza Psychologiczna — Kraków">
+    <meta property="og:title" content="@yield('title', 'Diagnoza psychologiczna w Krakowie') | Autyzm Diagnoza">
+    <meta property="og:description"
+          content="@yield('meta_description', 'Gabinet psychologiczny w Krakowie. Diagnoza ASD, badanie ADOS-2, MOXO, diagnoza ADHD, konsultacje psychologiczne i cennik.')">
+    <meta property="og:url" content="{{ url()->current() }}">
+    <meta property="og:image" content="{{ asset('images/ola_400.webp') }}">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="@yield('title', 'Diagnoza psychologiczna w Krakowie') | Autyzm Diagnoza">
+    <meta name="twitter:description"
+          content="@yield('meta_description', 'Gabinet psychologiczny w Krakowie. Diagnoza ASD, badanie ADOS-2, MOXO, diagnoza ADHD, konsultacje psychologiczne i cennik.')">
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-QD1TJ1SSYL"></script>
     <script>
